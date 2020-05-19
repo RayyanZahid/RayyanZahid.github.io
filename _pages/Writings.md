@@ -14,9 +14,4 @@ data-readmore="Continue reading"
 data-buttonclass="btn btn-primary" 
 data-offset="-100"></div>
 
-
-<div id="footer" class="page__footer">
-  <footer>
-    <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
-  </footer>
-</div>
+<script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
