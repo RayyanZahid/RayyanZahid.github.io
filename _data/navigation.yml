@@ -1,11 +1,31 @@
+# Contains the navigation pages.
+# Title is the name that appears on the top of the page.
+# Url is the URL that gets added to the master.
+
 main:
-  - title: "Book Reviews"
-    url: /BookReviews/
-  - title: "CV"
-    url: /CV/
+  - title: "Newsletter"
+    url: /newsletter/
+    
+  - title: "Design"
+    url: /design/
+    
+  - title: "Software"
+    url: /software/
+    
+  - title: "Writings"
+    url: /writings/
+    
+  - title: "Music"
+    url: /music/
+    
   - title: "Projects"
-    url: /Projects/
-  - title: "About Me"
-    url: /About/
-  - title: "Contact"
-    url: /Contact/
+    url: /projects/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Readings"
+    url: /readings/
+    
+  - title: "About me"
+    url: /about/
