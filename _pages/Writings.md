@@ -1,9 +1,10 @@
-<!-- Info on embedding Medium to your website https://www.retainable.io/embed-your-medium-blog
- Further info https://github.com/chrisj74/vue-rss-blog -->
 ---
 permalink: /writings/
 title: "Writings"
 ---
+
+<!-- Info on embedding Medium to your website https://www.retainable.io/embed-your-medium-blog
+ Further info https://github.com/chrisj74/vue-rss-blog -->
 
 <div id="retainable-rss-embed" 
 data-rss="https://medium.com/feed/@rayyanzahid"
