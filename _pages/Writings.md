@@ -3,7 +3,7 @@ permalink: /writings/
 title: "Writings"
 ---
 
-<div id="rayyan-rss-embed" 
+<div id="retainable-rss-embed" 
 data-rss="https://medium.com/feed/@rayyanzahid"
 data-maxcols="3" 
 data-layout="grid" 
