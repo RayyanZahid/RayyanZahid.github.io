@@ -8,7 +8,7 @@ title: "Social"
   data-width="1000"
   data-height="100"
   data-tweet-limit="4"
-  data-chrome="noborders transparent">
+  data-chrome="transparent noheader">
   Tweets by Rayyanzahid
   </a>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
