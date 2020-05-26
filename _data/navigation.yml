@@ -27,5 +27,8 @@ main:
   - title: "Readings"
     url: /readings/
     
+    - title: "Social"
+    url: /social/
+    
   - title: "About me"
     url: /about/
