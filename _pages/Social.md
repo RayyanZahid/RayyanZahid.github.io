@@ -3,4 +3,4 @@ permalink: /social/
 title: "Social"
 ---    
 
-<a class="twitter-timeline" href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw">Tweets by Rayyanzahid</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+{% twitter https://twitter.com/Rayyanzahid limit=5 widget_type=grid maxwidth=500 %}
