@@ -5,10 +5,10 @@ title: "Social"
 
 <a class="twitter-timeline"
   href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
-  data-width="300"
+  data-width="1000"
   data-height="300"
-  data-tweet-limit="5"
-  data-chrome="noscrollbar noborders transparent">
+  data-tweet-limit="4"
+  data-chrome="noborders transparent">
   Tweets by Rayyanzahid
   </a>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
