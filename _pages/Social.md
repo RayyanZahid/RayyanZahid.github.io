@@ -15,3 +15,6 @@ title: "Social"
 <div id="pixlee_container"></div>
 <script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'Rz0-TNpaoOwjoKrJt1uz'});Pixlee.addSimpleWidget({widgetId:'27612'});};</script>
 <script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
+
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rayyanzahid/">LinkedIn by Rayyan</a>  
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
