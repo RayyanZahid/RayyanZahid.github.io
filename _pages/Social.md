@@ -1,7 +1,7 @@
 ---
 permalink: /social/
 title: "Social"
----    
+---
 
 <a class="twitter-timeline"
   href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
@@ -18,3 +18,13 @@ title: "Social"
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rayyanzahid/">LinkedIn by Rayyan</a>  
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
+
+## collapsible markdown?
+<details><summary>CLICK ME</summary>
+<p>
+#### yes, even hidden code blocks!
+```python
+print("hello world!")
+```
+</p>
+</details>
