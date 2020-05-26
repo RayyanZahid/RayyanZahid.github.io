@@ -11,5 +11,7 @@ title: "Social"
   </a>
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
   
-  
-<div id="pixlee_container"></div><script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'Rz0-TNpaoOwjoKrJt1uz'});Pixlee.addSimpleWidget({widgetId:'27612'});};</script><script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
+<a>Instagram by Rayyanzahid</a>
+<div id="pixlee_container"></div>
+<script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'Rz0-TNpaoOwjoKrJt1uz'});Pixlee.addSimpleWidget({widgetId:'27612'});};</script>
+<script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
