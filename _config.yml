@@ -66,7 +66,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rayyanzahid"
+  github           : "rayyanzahid" {:target="_blank"}
   google_plus      :
   keybase          :
   instagram        : "rayyanzahid"
