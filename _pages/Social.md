@@ -15,10 +15,17 @@ Tweets by Rayyanzahid
 </details>
  
 <details><summary>Instagram</summary>
-<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/raybees/">Instagram by Rayyan</a>  
-<div id="pixlee_container"></div>
-<script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'Rz0-TNpaoOwjoKrJt1uz'});Pixlee.addSimpleWidget({widgetId:'27612'});};</script>
-<script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
+<!-- Place <div> tag where you want the feed to appear -->
+<div id="curator-feed-default-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+<script type="text/javascript">
+/* curator-feed-default-layout */
+(function(){
+var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+i.src = "https://cdn.curator.io/published/621679ac-21aa-413b-8d33-05a00ee7afb5.js";
+e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+})();
+</script>
 </details>
  
 <details><summary>LinkedIn</summary>
