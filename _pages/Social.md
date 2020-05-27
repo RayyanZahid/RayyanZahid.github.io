@@ -29,7 +29,7 @@ details[open] {
 }
 
 details[open] summary {
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px hidden #aaa;
     margin-bottom: .5em;
 }
 </style>
