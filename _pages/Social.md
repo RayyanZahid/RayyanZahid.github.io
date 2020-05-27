@@ -47,6 +47,8 @@ details[open] summary {
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
 
+<br>
+
 <!-- Instagram -->
 <details>
     <summary class="instagram"><i class="fab fa-instagram"></i> &nbsp; <a href="https://www.instagram.com/raybees/" style="color:white" rel="noopener noreferrer" target="_blank">Instagram</a></summary>
