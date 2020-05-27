@@ -42,9 +42,7 @@ details[open] summary {
 </style>
 </head>
 
-
-
-
+<!-- Twitter -->
 <details>
     <summary class="twitter"><a href="https://twitter.com/Rayyanzahid" style="color:white" rel="noopener noreferrer" target="_blank">Twitter</a></summary>
     <a class="twitter-timeline"
@@ -56,6 +54,8 @@ details[open] summary {
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
  
+
+<!-- Instagram -->
 <details>
     <summary class="instagram"><a href="https://www.instagram.com/raybees/" style="color:white" rel="noopener noreferrer" target="_blank">Instagram</a></summary>
     <!-- Place <div> tag where you want the feed to appear -->
@@ -71,6 +71,14 @@ details[open] summary {
     </script>
 </details>
  
+
+<!-- LinkedIn -->
+<details>
+    <summary class="linkedin"><a href="https://www.linkedin.com/in/rayyanzahid/" style="color:white" rel="noopener noreferrer" target="_blank">LinkedIn</a></summary> 
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
+</details>
+
+
 <details>
     <summary class="linkedin"><a href="https://www.linkedin.com/in/rayyanzahid/" style="color:white" rel="noopener noreferrer" target="_blank">LinkedIn</a></summary>
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rayyanzahid/">LinkedIn by Rayyan</a>  
