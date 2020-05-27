@@ -65,12 +65,15 @@ details[open] summary {
     </script>
 </details>
  
+ <br>
 
 <!-- LinkedIn -->
 <details>
     <summary class="linkedin"><i class="fab fa-linkedin-in"></i> &nbsp; <a href="https://www.linkedin.com/in/rayyanzahid/" style="color:white" rel="noopener noreferrer" target="_blank">LinkedIn</a></summary> 
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
 </details>
+
+<br>
 
 <!-- Youtube -->
 <details>
