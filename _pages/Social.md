@@ -2,16 +2,16 @@
 permalink: /social/
 title: "Social"
 ---
+<script src="https://kit.fontawesome.com/yourcode.js"></script>
 
 ## Social media
 
 
 <details><summary>
-<script src="https://kit.fontawesome.com/yourcode.js"></script>
 <div style="background-color:#00ACED; border-width:10px;">
-<h1> <i class="fab fa-twitter"></i>&nbsp
+<h1> <i class="fab fa-twitter"></i> &nbsp
 <a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank">
-Twitter </a>
+Twitter</a>
 </h1>
 </div>
 </summary>
