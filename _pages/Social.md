@@ -2,7 +2,6 @@
 permalink: /social/
 title: "Social"
 ---
-
 <head>
 <style>
 details {
@@ -19,6 +18,18 @@ summary {
     padding: .5em;
 }
 
+.twitter {
+  	background-image: linear-gradient(to right, #00ACEE, #0084B4);
+}
+
+.instagram {
+  	background-image: linear-gradient(to right, #515BD4, #8134AF, #DD2A7B, #F58529);
+}
+
+.linkedin {
+  	background-image: linear-gradient(to right, #0077B5, #00ACEE);
+}
+
 details[open] {
     padding: .5em;
 }
@@ -33,7 +44,7 @@ details[open] summary {
 ## Social media
 
 <details>
-    <summary>Twitter</summary>
+    <summary class="twitter">Twitter</summary>
     <a
     class="twitter-timeline"
     href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
@@ -44,21 +55,23 @@ details[open] summary {
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
  
-<details><summary>Instagram</summary>
-<!-- Place <div> tag where you want the feed to appear -->
-<div id="curator-feed-default-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
-<!-- The Javascript can be moved to the end of the html page before the </body> tag -->
-<script type="text/javascript">
-/* curator-feed-default-layout */
-(function(){
-var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
-i.src = "https://cdn.curator.io/published/621679ac-21aa-413b-8d33-05a00ee7afb5.js";
-e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
-})();
-</script>
+<details>
+    <summary class="instagram">Instagram</summary>
+    <!-- Place <div> tag where you want the feed to appear -->
+    <div id="curator-feed-default-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
+    <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
+    <script type="text/javascript">
+    /* curator-feed-default-layout */
+    (function(){
+    var i, e, d = document, s = "script";i = d.createElement("script");i.async = 1;
+    i.src = "https://cdn.curator.io/published/621679ac-21aa-413b-8d33-05a00ee7afb5.js";
+    e = d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
+    })();
+    </script>
 </details>
  
-<details><summary>LinkedIn</summary>
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rayyanzahid/">LinkedIn by Rayyan</a>  
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
+<details>
+    <summary class="linkedin">LinkedIn</summary>
+    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rayyanzahid/">LinkedIn by Rayyan</a>  
+    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
 </details>
