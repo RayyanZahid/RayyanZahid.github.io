@@ -8,7 +8,7 @@ title: "Social Media"
 
 details {
     border: 1px solid #aaa;
-    border-radius: 5px;
+    border-radius: 20px;
     padding: .5em .5em 0;
 }
 
