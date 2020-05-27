@@ -6,11 +6,8 @@ title: "Social"
 ## Social media
 
 <details><summary>
- <div style="background-color:#00ACED; border-width:10px;">
-  <h1>
-  <a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank">
-  Twitter</a>
-  </h1>
+ <div style="background-color:#00ACED;">
+  <h1><a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank">Twitter</a></h1>
  </div>
 </summary>
  <a class="twitter-timeline"
