@@ -6,7 +6,7 @@ title: "Social"
 <style>
     
 a {
-  color:white
+  color:white;
 }
 
 details {
@@ -50,7 +50,7 @@ details[open] summary {
 
 <details>
     <summary class="twitter"><a href="https://twitter.com/Rayyanzahid">Twitter</a></summary>
-    class="twitter-timeline"
+    <a class="twitter-timeline"
     href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
     data-tweet-limit="4"
     data-chrome="nofooter noborders">
