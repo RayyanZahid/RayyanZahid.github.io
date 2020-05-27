@@ -19,17 +19,11 @@ summary {
     padding: .5em;
 }
 
-.twitter {
-  	background-image: linear-gradient(to right, #00ACEE, #0084B4);
-}
-
-.instagram {
-  	background-image: linear-gradient(to right, #515BD4, #8134AF, #DD2A7B, #F58529);
-}
-
-.linkedin {
-  	background-image: linear-gradient(to right, #0077B5, #00ACEE);
-}
+.twitter {background-image: linear-gradient(to right, #00ACEE, #0084B4);}
+.instagram {background-image: linear-gradient(to right, #515BD4, #8134AF, #DD2A7B, #F58529);}
+.linkedin {background-image: linear-gradient(to right, #0077B5, #00ACEE);}
+.youtube {background-image: linear-gradient(to right, #E62117,#DD2A7B);}
+.vimeo {background-image: linear-gradient(to right, #0077B5, #00ACEE);}
 
 details[open] {
     padding: .5em;
@@ -78,9 +72,8 @@ details[open] summary {
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
 </details>
 
-
+<!-- Youtube -->
 <details>
-    <summary class="linkedin"><a href="https://www.linkedin.com/in/rayyanzahid/" style="color:white" rel="noopener noreferrer" target="_blank">LinkedIn</a></summary>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rayyanzahid/">LinkedIn by Rayyan</a>  
+    <summary class="youtube"><a href="https://www.youtube.com/channel/UCHbvWxPQ4zcHJBfkz2hgVDQ" style="color:white" rel="noopener noreferrer" target="_blank">Youtube</a></summary>
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
 </details>
