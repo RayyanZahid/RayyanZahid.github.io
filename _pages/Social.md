@@ -13,7 +13,7 @@ details {
 summary {
   	color: white;
     font-weight: bold;
-  	border-radius: 10px;
+  	border-radius: 20px;
     margin: -.5em -.5em 0;
     padding: .5em;
 }
@@ -29,7 +29,7 @@ details[open] {
 }
 
 details[open] summary {
-    border-bottom: 1px hidden #aaa;
+    border-bottom: 0px hidden #aaa;
     margin-bottom: .5em;
 }
 </style>
