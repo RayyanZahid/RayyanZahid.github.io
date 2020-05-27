@@ -13,6 +13,7 @@ details {
 summary {
   	color: white;
   	background-image: linear-gradient(to right, #00ACEE, #0084B4);
+    border
     border-radius: 20px;
     font-weight: light;
     margin: -.5em -.5em 0;
@@ -48,6 +49,7 @@ details[open] summary {
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
  
+</br>
 
 <!-- Instagram -->
 <details>
