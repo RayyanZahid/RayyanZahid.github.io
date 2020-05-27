@@ -39,7 +39,7 @@ details[open] summary {
 
 <!-- Twitter -->
 <details>
-    <summary class="twitter"><i class="fab fa-twitter-square"></i>&nbsp<a href="https://twitter.com/Rayyanzahid" style="color:white" rel="noopener noreferrer" target="_blank">Twitter</a></summary>
+    <summary class="twitter"><i class="fab fa-twitter-square"></i> &nbsp; <a href="https://twitter.com/Rayyanzahid" style="color:white" rel="noopener noreferrer" target="_blank">Twitter</a></summary>
     <a class="twitter-timeline"
     href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
     data-tweet-limit="4"
