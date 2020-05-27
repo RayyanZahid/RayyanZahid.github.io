@@ -48,8 +48,6 @@ details[open] summary {
     </a>
     <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </details>
- 
-</br>
 
 <!-- Instagram -->
 <details>
