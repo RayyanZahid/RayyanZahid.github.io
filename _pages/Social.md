@@ -2,7 +2,6 @@
 permalink: /social/
 title: "Social"
 ---
-<script src="https://kit.fontawesome.com/yourcode.js"></script>
 
 ## Social media
 
