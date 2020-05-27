@@ -35,6 +35,8 @@ details[open] summary {
 </style>
 </head>
 
+<br>
+
 <!-- Twitter -->
 <details>
     <summary class="twitter"><i class="fab fa-twitter"></i> &nbsp; <a href="https://twitter.com/Rayyanzahid" style="color:white; text-decoration:none;" rel="noopener noreferrer" target="_blank">Twitter</a></summary>
