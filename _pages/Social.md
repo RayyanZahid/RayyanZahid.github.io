@@ -12,10 +12,8 @@ details {
 
 summary {
   	color: white;
-  	background-image: linear-gradient(to right, #00ACEE, #0084B4);
-    border
-    border-radius: 20px;
-    font-weight: light;
+    font-weight: bold;
+  	border-radius: 10px;
     margin: -.5em -.5em 0;
     padding: .5em;
 }
