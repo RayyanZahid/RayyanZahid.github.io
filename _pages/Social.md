@@ -1,6 +1,6 @@
 ---
 permalink: /social/
-title: "Social"
+title: "Social Media"
 ---
 <head>
 <style>
@@ -42,10 +42,11 @@ details[open] summary {
 </style>
 </head>
 
-## Social media
+
+
 
 <details>
-    <summary class="twitter"><a href="https://twitter.com/Rayyanzahid" style="color:white">Twitter</a></summary>
+    <summary class="twitter"><a href="https://twitter.com/Rayyanzahid" style="color:white" rel="noopener noreferrer" target="_blank">Twitter</a></summary>
     <a class="twitter-timeline"
     href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
     data-tweet-limit="4"
@@ -56,7 +57,7 @@ details[open] summary {
 </details>
  
 <details>
-    <summary class="instagram">Instagram</summary>
+    <summary class="instagram"><a href="https://www.instagram.com/raybees/" style="color:white" rel="noopener noreferrer" target="_blank">Instagram</a></summary>
     <!-- Place <div> tag where you want the feed to appear -->
     <div id="curator-feed-default-layout"><a href="https://curator.io" target="_blank" class="crt-logo crt-tag">Powered by Curator.io</a></div>
     <!-- The Javascript can be moved to the end of the html page before the </body> tag -->
@@ -71,7 +72,7 @@ details[open] summary {
 </details>
  
 <details>
-    <summary class="linkedin">LinkedIn</summary>
+    <summary class="linkedin"><a href="https://www.linkedin.com/in/rayyanzahid/" style="color:white" rel="noopener noreferrer" target="_blank">LinkedIn</a></summary>
     <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rayyanzahid/">LinkedIn by Rayyan</a>  
     <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
 </details>
