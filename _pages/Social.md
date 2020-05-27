@@ -7,7 +7,8 @@ title: "Social"
 
 <details><summary>
 <div style="background-color:#00ACED;">
-<h1><a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank">Twitter</a></h1></div>
+<a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank">Twitter</a>
+</div> </summary>
 <a class="twitter-timeline"
 href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
 data-tweet-limit="4"
