@@ -4,6 +4,11 @@ title: "Social"
 ---
 <head>
 <style>
+    
+a {
+  color:white
+}
+
 details {
     border: 1px solid #aaa;
     border-radius: 5px;
@@ -44,8 +49,7 @@ details[open] summary {
 ## Social media
 
 <details>
-    <summary class="twitter">Twitter</summary>
-    <a
+    <summary class="twitter"><a href="https://twitter.com/Rayyanzahid">Twitter</a></summary>
     class="twitter-timeline"
     href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
     data-tweet-limit="4"
