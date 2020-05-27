@@ -4,7 +4,17 @@ title: "Social"
 ---
 
 ## Social media
-<details><summary>Twitter</summary>
+
+
+<details><summary>
+<script src="https://kit.fontawesome.com/yourcode.js"></script>
+<div style="background-color:#00ACED; border-width:10px;">
+<h1> <i class="fab fa-twitter"></i>&nbsp
+<a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank">
+Twitter </a>
+</h1>
+</div>
+</summary>
 <a class="twitter-timeline"
 href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
 data-tweet-limit="4"
