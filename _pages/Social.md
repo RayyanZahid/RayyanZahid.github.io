@@ -75,5 +75,5 @@ details[open] summary {
 <!-- Youtube -->
 <details>
     <summary class="youtube"><a href="https://www.youtube.com/channel/UCHbvWxPQ4zcHJBfkz2hgVDQ" style="color:white" rel="noopener noreferrer" target="_blank">Youtube</a></summary>
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6504128593625518080" allowfullscreen="" title="Embedded post" width="500" height="500" frameborder=""></iframe>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?controls=0&amp;list=PL6mmnu7xOYnxyh0QK1KrNxggxVQayG1gN" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </details>
