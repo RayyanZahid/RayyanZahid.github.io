@@ -5,7 +5,28 @@ title: "Social"
 
 <head>
 <style>
+details {
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    padding: .5em .5em 0;
+}
 
+summary {
+  	color: white;
+  	background-image: linear-gradient(to right, #00ACEE, #0084B4);
+    font-weight: light;
+    margin: -.5em -.5em 0;
+    padding: .5em;
+}
+
+details[open] {
+    padding: .5em;
+}
+
+details[open] summary {
+    border-bottom: 1px solid #aaa;
+    margin-bottom: .5em;
+}
 </style>
 </head>
 
