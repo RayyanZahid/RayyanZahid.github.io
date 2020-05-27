@@ -15,13 +15,11 @@ Tweets by Rayyanzahid
 </details>
  
 <details><summary>Instagram</summary>
- <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/raybees/">Instagram by Rayyan</a>
- <div id="pixlee_container"></div>
- <script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
- <script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'Rz0-TNpaoOwjoKrJt1uz'});Pixlee.addSimpleWidget({widgetId:'27612'});};</script>
+<a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/raybees/">Instagram by Rayyan</a>  
+<div id="pixlee_container"></div>
+<script type="text/javascript">window.PixleeAsyncInit = function() {Pixlee.init({apiKey:'Rz0-TNpaoOwjoKrJt1uz'});Pixlee.addSimpleWidget({widgetId:'27612'});};</script>
+<script src="//instafeed.assets.pxlecdn.com/assets/pixlee_widget_1_0_0.js"></script>
 </details>
-
-
  
 <details><summary>LinkedIn</summary>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/rayyanzahid/">LinkedIn by Rayyan</a>  
