@@ -5,9 +5,9 @@ title: "Social"
 
 ## Social media
 
-<details>
+<details><summary>
 <div style="background-color:#00ACED;">
-<h1><a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank"><summary>Twitter</a></h1></summary></div>
+<h1><a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank">Twitter</a></h1></div>
 <a class="twitter-timeline"
 href="https://twitter.com/Rayyanzahid?ref_src=twsrc%5Etfw"
 data-tweet-limit="4"
