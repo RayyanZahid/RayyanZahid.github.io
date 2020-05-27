@@ -8,7 +8,7 @@ title: "Social"
 
 <details><summary>
 <div style="background-color:#00ACED; border-width:10px;">
-<h1>$~$<i class="fab fa-twitter"></i>
+<h1>&emsp<i class="fal fa-hashtag"></i>
 <a style="color:white" href="https://twitter.com/Rayyanzahid" rel="noopener noreferrer" target="_blank">
 Twitter</a>
 </h1>
