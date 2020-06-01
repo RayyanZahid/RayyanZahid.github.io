@@ -52,6 +52,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-twitter-plugin
+  - jekyll-menus
 
 # Site Author
 author:
