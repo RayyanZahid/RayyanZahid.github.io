@@ -8,10 +8,10 @@ main:
     
   - title: "Design"
     subfolderitems:
-      - page: 2D
-        url: /2d/
-      - page: 3D
-        url: /3d/
+      - page: twod
+        url: /twod.html
+      - page: threed
+        url: /threed.html
     
   - title: "Software"
     url: /software/
