@@ -7,11 +7,7 @@ main:
     url: https://www.elevatebyrayyan.com/
     
   - title: "Design"
-    subfolderitems:
-      - page: twod
-        url: /twod.html
-      - page: threed
-        url: /threed.html
+    url: /design/
     
   - title: "Software"
     url: /software/
