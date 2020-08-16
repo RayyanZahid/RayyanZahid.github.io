@@ -5,8 +5,8 @@ title: "Online courses"
 
 ## 2020
 ### August
-- **(Ongoing) Computation in Complex Systems** - Complexity Explorer (*Santa Fe Institute*) - [(Course)][5]
-- **(Ongoing) Computation Modeling and NetLogo** - Complexity Explorer (*Santa Fe Institute*) - [(Course)][6]
+- **(Ongoing) Computation in Complex Systems** - Complexity Explorer (*Santa Fe Institute*) - [(Course)][1]
+- **(Ongoing) Computation Modeling and NetLogo** - Complexity Explorer (*Santa Fe Institute*) - [(Course)][2]
 
 
 ### July
