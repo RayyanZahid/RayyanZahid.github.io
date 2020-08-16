@@ -14,4 +14,4 @@ title: "Online courses"
 [2]: <https://raw.githubusercontent.com/RayyanZahid/RayyanZahid.github.io/master/assets/images/courses/High%20res.jpg> "Course certificate"
 [3]: <https://www.complexityexplorer.org/courses/103-origins-of-life> "Origins of Life online course on Complexity Explorer"
 
-[6] <https://www.complexityexplorer.org/courses/99-computation-in-complex-systems> "Computation in Complex Systems on Complexity Explorer"
+[6]: <https://www.complexityexplorer.org/courses/99-computation-in-complex-systems> "Computation in Complex Systems on Complexity Explorer"
