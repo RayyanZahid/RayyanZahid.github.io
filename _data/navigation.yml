@@ -6,8 +6,8 @@ main:
   - title: "Newsletter"
     url: https://www.elevatebyrayyan.com/
     
-  - title: "Design"
-    url: /design/
+  - title: "Courses"
+    url: /courses/
     
   - title: "Software"
     url: /software/
@@ -32,3 +32,6 @@ main:
     
   - title: "About me"
     url: /about/
+        
+  - title: "Design"
+    url: /design/
