@@ -9,8 +9,8 @@ main:
   - title: "Courses"
     url: /courses/
     
-  - title: "Software"
-    url: /software/
+  - title: "Webinars"
+    url: /webinars/
     
   - title: "Writings"
     url: /writings/
@@ -35,3 +35,6 @@ main:
         
   - title: "Design"
     url: /design/
+    
+  - title: "Software"
+    url: /software/
