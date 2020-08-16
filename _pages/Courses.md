@@ -1,1 +1,5 @@
-test
+---
+permalink: /courses/
+title: "Online courses"
+---
+
