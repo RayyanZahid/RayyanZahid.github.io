@@ -17,12 +17,12 @@ title: "Online courses"
 <!-- Certificate  --> [2]: <https://raw.githubusercontent.com/RayyanZahid/RayyanZahid.github.io/master/assets/images/courses/High%20res.jpg> "Course certificate"
 <!-- Course       --> [3]: <https://www.complexityexplorer.org/courses/103-origins-of-life> "Origins of Life online course on Complexity Explorer"
 <!-- Link to page --> [4]: <https://rayyanzahid.com/Origins-Of-Life/> "More information"
-
+[5]: <https://www.complexityexplorer.org/courses/99-computation-in-complex-systems> "Computation in Complex Systems on Complexity Explorer"
 
 <!-- Computation in Complex Systems -->
 <!-- Link to page --> <!-- []: <> ""-->
 <!-- Certificate  --> <!-- []: <> ""-->
-<!-- Course       --> [5]: <https://www.complexityexplorer.org/courses/99-computation-in-complex-systems> "Computation in Complex Systems on Complexity Explorer"
+<!-- Course       --> 
 <!-- Personal Blog--> <!-- []: <> ""-->
 
 
