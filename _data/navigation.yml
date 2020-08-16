@@ -3,6 +3,14 @@
 # Url is the URL that gets added to the master.
 
 main:
+  - title: Something
+    children:
+      - title: "One"
+        url: /one/
+      
+      - title: "Two"
+        url: /two/
+        
   - title: "Newsletter"
     url: https://www.elevatebyrayyan.com/
     
