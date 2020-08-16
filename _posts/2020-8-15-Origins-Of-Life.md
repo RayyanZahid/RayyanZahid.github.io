@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "Online Course: Origins of Life - Complexity Explorer (Santa Fe Institute)"
 ---
 
