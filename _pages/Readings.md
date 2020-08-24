@@ -5,6 +5,8 @@ title: "Readings"
 
 
 | something | nothing |
+| --------- | ------- |
+| now       |   what  |
 
 ## Currently Reading
 | ![Book1](/images/books/nature-of-computation-cris.jpg) | - Mertens, Stephan, and Moore, Cristopher. The Nature of Computation. United Kingdom, OUP Oxford, 2011.[(Book Link)][1] |
