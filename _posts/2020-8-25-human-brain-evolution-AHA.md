@@ -1,13 +1,13 @@
 ---
 classes: wide
+description: 3-part series offered by the American Humanist Association on recent developments on our understanding of the brain.
 title:  "In-depth Look at Human Brain Evolution - Further reflection, American Humanist Association"
 ---
 
 ## Course content
 
-
 ### The Big Picture
-Curriculum: Brain basics. Why does size matter? How and why human brains got bigger. Are there any new brain regions? The gene changes that did this and their mixed consequences for our lives.  
+Brain basics. Why does size matter? How and why human brains got bigger. Are there any new brain regions? The gene changes that did this and their mixed consequences for our lives.  
 *August 25th, 6:30 to 8:00 pm ET*
 
 ### Connections & Plasticity
