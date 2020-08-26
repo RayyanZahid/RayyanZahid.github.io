@@ -1,7 +1,7 @@
 ---
 classes: wide
-description: 3-part series offered by the American Humanist Association on recent developments on our understanding of the brain.
 title:  "In-depth Look at Human Brain Evolution - Further reflection, American Humanist Association"
+description: 3-part series offered by the American Humanist Association on recent developments on our understanding of the brain.
 ---
 
 ## Course content
