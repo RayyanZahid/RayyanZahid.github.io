@@ -5,13 +5,13 @@ title: "Online courses"
 
 ## 2020
 ### August
-- **(Ongoing) In-depth Look at Human Brain Evolution** - Further reflection, *American Humanist Association* - [(Pre-cursor)](https://americanhumanistcenterforeducation.org/?p=19921)
+- **(Ongoing) In-depth Look at Human Brain Evolution** - Further reflection, *American Humanist Association* - [(More Info)](https://rayyanzahid.com/human-brain-evolution-AHA/) [(Pre-cursor)](https://americanhumanistcenterforeducation.org/?p=19921)
 - **Computation in Complex Systems** - Complexity Explorer, *Santa Fe Institute* - [(Course)](https://www.complexityexplorer.org/courses/99-computation-in-complex-systems)(Personal Blog - Coming soon)
 - **Computation Modeling and NetLogo** - Complexity Explorer, *Santa Fe Institute* - [(Course)](https://www.complexityexplorer.org/courses/113-summer-teacher-institute-computational-modeling-and-netlogo/segments/10979)(Personal Blog - Coming soon)
 
 
 ### July
-- [**Origins of Life** - Complexity Explorer, *Santa Fe Institute*][4] - [(Personal blog)][1][(Certificate)][2][(Course)][3]
+- **Origins of Life** - Complexity Explorer, *Santa Fe Institute* - [(More info)][4][(Personal blog)][1][(Certificate)][2][(Course)][3]
 
 <!-- Origins of Life -->
 <!-- Personal Blog--> [1]: <https://medium.com/@rayyanzahid/origin-of-life-acbf574e8526> "Medium: Origins of Life - Leading Theories and Develpoments by Rayyan Zahid"
