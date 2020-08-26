@@ -1,7 +1,8 @@
 ---
 classes: wide
 title:  "In-depth Look at Human Brain Evolution - Further reflection, American Humanist Association"
-excerpt_separator: <!--more-->
+excerpt: Could this be it?
+<!-- excerpt_separator: <!--more-->
 ---
 
 ## Course content
