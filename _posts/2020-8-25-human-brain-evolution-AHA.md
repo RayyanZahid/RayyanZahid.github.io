@@ -4,7 +4,7 @@ title:  "In-depth Look at Human Brain Evolution - Further reflection, American H
 excerpt: A 3-part technical course by Dr. Mark Reimers about the evolution of brain and recent developments in the field of neuroscience offered by the American Humanist Association
 ---
 
-[Critical Minds][https://americanhumanistcenterforeducation.org/?cat=193] is an enrichment series with professors and adjunct faculty members. This series was introduced in May 2020 by the American Humanist Association.
+[Critical Minds](https://americanhumanistcenterforeducation.org/?cat=193) is an enrichment series with professors and adjunct faculty members. This series was introduced in May 2020 by the American Humanist Association.
 
 Our human mind has evolved from an ape mind over the past six million years. How have our brains and genes changed to bring this about? We are very similar to apes in some ways, in which scientists previously thought humans stood out, but quite different in other ways, such as our capacity for engagement with other people. This course will present genetic, anatomical, behavioral evidence bearing on the changes to the brain that supported the emergence of the human mind.
 
