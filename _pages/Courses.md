@@ -5,8 +5,9 @@ title: "Online courses"
 
 ## 2020
 ### August
-- **(Ongoing) Computation in Complex Systems** - Complexity Explorer (*Santa Fe Institute*) - [(Course)](https://www.complexityexplorer.org/courses/99-computation-in-complex-systems)
-- **(Ongoing) Computation Modeling and NetLogo** - Complexity Explorer (*Santa Fe Institute*) - [(Course)](https://www.complexityexplorer.org/courses/113-summer-teacher-institute-computational-modeling-and-netlogo/segments/10979)
+- **(Ongoing)In-depth Look at Human Brain Evolution** - Further reflection (American Humanist Association) - [(Pre-cursor)](https://americanhumanistcenterforeducation.org/?p=19921)
+- **Computation in Complex Systems** - Complexity Explorer (*Santa Fe Institute*) - [(Course)](https://www.complexityexplorer.org/courses/99-computation-in-complex-systems)(Personal Blog - Coming soon)
+- **Computation Modeling and NetLogo** - Complexity Explorer (*Santa Fe Institute*) - [(Course)](https://www.complexityexplorer.org/courses/113-summer-teacher-institute-computational-modeling-and-netlogo/segments/10979))(Personal Blog - Coming soon)
 
 
 ### July
