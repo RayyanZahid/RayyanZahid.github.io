@@ -5,6 +5,7 @@ title:  "In-depth Look at Human Brain Evolution - Further reflection, American H
 
 ## Course content
 
+
 ### The Big Picture
 Curriculum: Brain basics. Why does size matter? How and why human brains got bigger. Are there any new brain regions? The gene changes that did this and their mixed consequences for our lives.
 *August 25th, 6:30 to 8:00 pm ET*
