@@ -8,8 +8,7 @@ The course "Computational Modeling and NetLogo" was offered as a summer course b
 
 | The Instructor           | Title                                                                                                                                                                                                                                                                                                                                  |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Bill-rand](
-RayyanZahid.github.io/assets/images/2020-8-26-course-computational-agent-based-modeling/Rand-Bill.jpg ) | The instructor for this course was Dr. Bill Rand, assistant professor of Business Management at the Poole College of Management at North Carolina State University and a computer scientist by training. He recently co-authored a textbook on agent-based modeling with Uri Wilensky, the author of the NetLogo programming language. |
+| ![Bill-rand](/assets/images/2020-8-26-course-computational-agent-based-modeling/Rand-Bill.jpg ) | The instructor for this course was Dr. Bill Rand, assistant professor of Business Management at the Poole College of Management at North Carolina State University and a computer scientist by training. He recently co-authored a textbook on agent-based modeling with Uri Wilensky, the author of the NetLogo programming language. |
 
 In this course the instructor helped the students explore why agent-based modeling (ABM) is a powerful new way to understand complex systems. ABM was and is used in the past and present to study everything from economics to biology to political science to business and management.
 
