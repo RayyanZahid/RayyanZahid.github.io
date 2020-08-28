@@ -1,12 +1,7 @@
 ---
-layout: post
-title:  Course review: Computational Modeling and NetLogo
-date:   2020-08-27
-author: Rayyan Zahid
-description: My take away from "Computational Modeling and NetLogo" offered by the Santa Fe Insitute. The course introduced the basics of agent based modeling of complex problems.
-featured-image: 2020-8-26-course-computational-agent-based-modeling/ABM BK.jpg
-featured-image-alt: Alt texts
-categories: Modeling
+classes: wide
+title:  "Course review: Computational Modeling and NetLogo"
+excerpt: My take away from "Computational Modeling and NetLogo" offered by the Santa Fe Insitute. The course introduced the basics of agent based modeling of complex problems.
 ---
 ![Featured image](/assets/images/2020-8-26-course-computational-agent-based-modeling/ABM BK.jpg)
   
