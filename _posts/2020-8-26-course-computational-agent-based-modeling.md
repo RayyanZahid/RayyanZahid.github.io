@@ -80,6 +80,8 @@ A moderate number of heterogeneous components, interactions between different pa
 
 In almost all cases time is a necessary condition to use ABM. Though not necessary on its own, agent based modeling is usually the best technique when the components are exhibiting adaptation.
 
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/Lambda.png" %}
+
 ## The history: functional programming and object oriented programming
 
 Initially, functional programming was all about taking a number as an input, performing some state operation on it, and then returning a number as an output.
