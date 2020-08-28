@@ -60,7 +60,7 @@ Axelrod in 1997 argued in his paper "Advancing the Art of Simulation in the Soci
 
 When we deal with complex systems, we are often seeking an understanding where deductive, inductive, or both these ways have failed to provide an answer. Simulation uniquely helps us understand the aggregate emergent behavior of a system (**integrative** ) and actual first principles of the aggergate pattern (**differential**).
 
-![Agent based modeling](/assets/images/2020-8-26-course-computational-agent-based-modeling/agent.gif )
+![Agent based modeling](/assets/images/2020-8-26-course-computational-agent-based-modeling/flock.gif )
 
 ## Agent and Agent based modeling
 
@@ -202,4 +202,8 @@ There are other unique benefits of verification.
 * Aids in understanding: A better in-depth understanding is often derived from conducting verfication
 * Micro-rules lead to Macro-rules: Macro-rules can be identified that can be used for other models
 * Validation: Verification ultimately leads to validation, which is the most sought after part of modeling
+
+## Conclusion
+
+Agent based modeling is an important and powerful tool to have under any scientist's or researcher's belt. Since Axelrods paper, ABM has seen an increase in its use, not just in the social science but physical sciences as well. Though it will take some time before text books will start incorporating this third way of conducting science, for any person trying to solve a problem within complex adaptive systems, ABM will be their best bet to solve the problem.
 
