@@ -23,6 +23,8 @@ Furthermore, the course not only taught how to build models from the ground up u
 ### What is a model?
 A model is an abstracted description of a process where certain aspects of the process are either exaggerated or ignored to understand the subject of the study.
 
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/Solar-system-scale.jpg" description="Exaggerated model of our solar system. Image by: https://deskarati.com" %}
+
 In practice, the conceptual model is designed by the researchers (also known as the authors) who are simulating some aspect of the real world. The conceptual model is then implemented by a developer, who constructs the program using a flowchart or a pseudocode provided by the author. For the proper implementation of the conceptual model, it is important to reduce the communication gap between the author and developer. Modeling tools such as NetLogo, which has a "low threshold and high ceiling", do this by having a human-centered design, intuitive programming language and strict documentation standards.
 
 ### Representation
