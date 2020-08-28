@@ -90,8 +90,12 @@ Dahl & Nygaard created the concept of "Class" in Simula, which combined function
 
 The similarity between Agent Based Modeling and Object Oriented programming is that agents and objects both are instantiated as classes.
 
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/Actor-model.jpg" description="Actor model by Carl Hewitt, 1973. Image from http://worrydream.com/dbx/" %}
+
 Inspired by Seymour Papert and Alan Kay, Carl Hewitt in 1973 simplified Simula and Smalltalk to create what is known today as the **Actor model**.
 In the Actor model each actor can send/receive messages, create another actor or manipulate messages. The actors all run concurrently and in order to send a message to another actor, need to know the exact address of the other actor to communicate.
+
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/Agent-flocks.jpg" description="Flocking observed in fish, sheep and birds. Image from www.google.com" %}
 
 ## Bridging the gap
 
