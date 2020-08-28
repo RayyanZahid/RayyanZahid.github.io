@@ -54,11 +54,13 @@ Induction is when we infer from data sets to come up with a general theory. Dedu
 
 Axelrod in 1997 argued in his paper "Advancing the Art of Simulation in the Social Sciences" that simulation is a third way of science. In simplified terms, this new way of science, just like in deduction, we argue from first principles but instead of coming up with a general theory, we creates sets of datasets from the principles. We then use induction to infer from the dataset a general theory. We call this simulation or generative reasoning.
 
-{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/metamorphose.jpg" description="Metamorphose drawing by M. C. Escher. Image fromhttps://escher.ntr.nl/en/" %}
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/metamorphose.jpg" description="Metamorphose drawing by M. C. Escher. Image from https://escher.ntr.nl/en/" %}
 
 #### Complex systems and simulation
 
 When we deal with complex systems, we are often seeking an understanding where deductive, inductive, or both these ways have failed to provide an answer. Simulation uniquely helps us understand the aggregate emergent behavior of a system (**integrative** ) and actual first principles of the aggergate pattern (**differential**).
+
+![Agent based modeling](/assets/images/2020-8-26-course-computational-agent-based-modeling/agent.gif )
 
 ## Agent and Agent based modeling
 
