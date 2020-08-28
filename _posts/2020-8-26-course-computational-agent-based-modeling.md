@@ -118,6 +118,10 @@ There are alot of properties that we can be configured for an environment. Space
 * Continuous
 * Externally imported environments
 
+| Toroidal | Bounded | Infinite plane arrangement |
+| -------- | ------- | -------------------------- |
+| ![Toroidal world](/assets/images/2020-8-26-course-computational-agent-based-modeling/portal.gif ) | ![Bounded](/assets/images/2020-8-26-course-computational-agent-based-modeling/snakes.gif ) | ![Inifnite plane](/assets/images/2020-8-26-course-computational-agent-based-modeling/pacman.gif ) |
+
 **Boundary:**
 * Toroidal/wrapped/Pac-Man
 * Bounded
@@ -132,9 +136,14 @@ There are alot of properties that we can be configured for an environment. Space
   * Random
   * Small world
   * Real world data
+  
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/small-world.jpg" description="Example of small world network. Image from https://www.nature.com/articles/30918" %}
+  
 * Spatial environment:
   * Discrete Lattice spaces such as Square (Von Neumann and Moore) or Hex (equal length)
   * Continous spaces
+  
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/neighborhood_types.jpg" description="Example of spatial environment. Image from https://www.raywenderlich.com" %}
 
 #### Interactions
 * Agent-agent
