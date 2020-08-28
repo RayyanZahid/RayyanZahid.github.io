@@ -20,7 +20,7 @@ In this course the instructor helped the students explore why agent-based modeli
 
 Furthermore, the course not only taught how to build models from the ground up using NetLogo programming Language but it also taught how to analyze and understand the results of a model. For brevity I have skipped the NetLogo part in this article, and rather kept the methods that is useable in any number of different fields.
 
-### What is a model?
+## What is a model?
 A model is an abstracted description of a process where certain aspects of the process are either exaggerated or ignored to understand the subject of the study.
 
 
@@ -30,7 +30,7 @@ In practice, the conceptual model is designed by the researchers (also known as 
 
 {% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/model-structure.jpg" description="A flow diagram of modeling real-world systems. Image adapted from AutoDesk" %}
 
-### Representation
+## Representation
 
 > Essentially, all models are wrong but some are useful. - George Box, 1987
 
@@ -40,7 +40,7 @@ Representation is the name of the game when dealing with complex systems.
 
 {% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/BK Complex.jpg" %}
 
-### Complex Systems
+## Complex Systems
 
 > Every real world system is inherently complex. - Tamas Vicsek, 2002
 
@@ -60,7 +60,7 @@ Axelrod in 1997 argued in his paper "Advancing the Art of Simulation in the Soci
 
 When we deal with complex systems, we are often seeking an understanding where deductive, inductive, or both these ways have failed to provide an answer. Simulation uniquely helps us understand the aggregate emergent behavior of a system (**integrative** ) and actual first principles of the aggergate pattern (**differential**).
 
-### Agent and Agent based modeling
+## Agent and Agent based modeling
 
 Agent Based Modelling (ABM) is one of the ways we study complex systems. It is exclusively a simulation technique.
 
@@ -78,7 +78,7 @@ A moderate number of heterogeneous components, interactions between different pa
 
 In almost all cases time is a necessary condition to use ABM. Though not necessary on its own, agent based modeling is usually the best technique when the components are exhibiting adaptation.
 
-### The history: functional programming and object oriented programming
+## The history: functional programming and object oriented programming
 
 Initially, functional programming was all about taking a number as an input, performing some state operation on it, and then returning a number as an output.
 
@@ -91,13 +91,13 @@ The similarity between Agent Based Modeling and Object Oriented programming is t
 Inspired by Seymour Papert and Alan Kay, Carl Hewitt in 1973 simplified Simula and Smalltalk to create what is known today as the **Actor model**.
 In the Actor model each actor can send/receive messages, create another actor or manipulate messages. The actors all run concurrently and in order to send a message to another actor, need to know the exact address of the other actor to communicate.
 
-### Bridging the gap
+## Bridging the gap
 
 Agent based modeling follows a similar framework. Agents can run concurrently and only have knowledge of their own local interactions and bounded interaction spaces. Agents are dynamic and exhibit behaviors that are independent of other agents.
 
 When look at the dynamics of the model, ABM studies the system using visualizations and sensitivity analysis. ABM often exhibit phase transitions, that is when a small change in the input parameter dramatically changes the output.
 
-### Components
+## Components
 There are three components to an agent based model. Agents, interaction and environment.
 
 #### The Agent
@@ -130,11 +130,11 @@ There are alot of properties that we can be configured for an environment. Space
   * Discrete Lattice spaces such as Square (Von Neumann and Moore) or Hex (equal length)
   * Continous spaces
 
-### Interactions
+#### Interactions
 * Agent-agent
 * Agent-environment
 
-### Verification and validation of a model
+## Verification and validation of a model
 
 A model is **verified** when the implemented model corresponds to the conceptual model.
 
@@ -164,7 +164,7 @@ Many standards are maintained to ensure that the implemented model follows the c
   
   A model is **validated** when the implemented model succesfully simulates the real world. 
 
-### Failure of a model
+#### Failure of a model
 
 There are multiple reasons why a model can fail. Some of the likely reasons are as follows:
 
