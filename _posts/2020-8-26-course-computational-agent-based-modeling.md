@@ -38,7 +38,7 @@ All other challenges aside, for a model, having the right representation can som
 
 Representation is the name of the game when dealing with complex systems.
 
-{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/BK Complex.jpg" description="Network diagram against the background" %}
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/BK Complex.jpg" %}
 
 ### Complex Systems
 
@@ -53,6 +53,8 @@ Historically we have used two ways to build our scientific understanding of the 
 Induction is when we infer from data sets to come up with a general theory. Deduction is when we argue from first principles to get to a general theory. However, in the last few decades, a third new way of science has emerged, simulation or generative reasoning.
 
 Axelrod in 1997 argued in his paper "Advancing the Art of Simulation in the Social Sciences" that simulation is a third way of science. In simplified terms, this new way of science, just like in deduction, we argue from first principles but instead of coming up with a general theory, we creates sets of datasets from the principles. We then use induction to infer from the dataset a general theory. We call this simulation or generative reasoning.
+
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/metamorphose.jpg" description="Metamorphose drawing by M. C. Escher. Image fromhttps://escher.ntr.nl/en/" %}
 
 #### Complex systems and simulation
 
