@@ -1,12 +1,10 @@
 ---
 classes: wide
 title:  "Course review: Computational Modeling and NetLogo"
-image: /assets/images/2020-8-26-course-computational-agent-based-modeling/ABM BK.jpg
 excerpt: My take away from "Computational Modeling and NetLogo" offered by the Santa Fe Insitute. The course introduced the basics of agent based modeling of complex problems.
 ---
-
-![Bill-rand](/assets/images/2020-8-26-course-computational-agent-based-modeling/Rand-Bill.jpg
-
+![Featured image](/assets/images/2020-8-26-course-computational-agent-based-modeling/ABM BK.jpg)
+  
 The course "Computational Modeling and NetLogo" was offered as a summer course by the Santa Fe Institute as an introduction to the basics of agent based modeling of complex problems and NetLogo programing. Having missed the course during the summer, I decided to take the audited course.
 
 This article is a condensed summary of what I learned about computer modeling. I've omitted the basics on NetLogo since I only wanted to talk about the broader encompassing topics of modeling. NetLogo is, nonetheless, a wonderful and powerful programming language which I've lately been having a lot of fun with.
