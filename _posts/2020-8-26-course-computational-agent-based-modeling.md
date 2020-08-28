@@ -1,14 +1,21 @@
 ---
 classes: wide
 title:  "Course review: Computational Modeling and NetLogo"
+image: /assets/images/2020-8-26-course-computational-agent-based-modeling/ABM BK.jpg
 excerpt: My take away from "Computational Modeling and NetLogo" offered by the Santa Fe Insitute. The course introduced the basics of agent based modeling of complex problems.
 ---
 
-The course "Computational Modeling and NetLogo" was offered as a summer course by the Santa Fe Institute as an introduction to the basics of agent based modeling of complex problems and NetLogo programing. Having missed the course during the summer, I decided to take the audited course. This article is a condensed summary of what I learned about agent based modeling. I've omitted the basics on NetLogo since I only wanted to talk about broader encompassing topics. Nonetheless, NetLogo is a wonderful programming language which I've been having a lot of fun with.
+![Bill-rand](/assets/images/2020-8-26-course-computational-agent-based-modeling/Rand-Bill.jpg
+
+The course "Computational Modeling and NetLogo" was offered as a summer course by the Santa Fe Institute as an introduction to the basics of agent based modeling of complex problems and NetLogo programing. Having missed the course during the summer, I decided to take the audited course.
+
+This article is a condensed summary of what I learned about computer modeling. I've omitted the basics on NetLogo since I only wanted to talk about the broader encompassing topics of modeling. NetLogo is, nonetheless, a wonderful and powerful programming language which I've lately been having a lot of fun with.
+
+The instructor for this course was Dr. Bill Rand:
 
 | The Instructor           | Description                                                                                                                                                                                                                                                                                                                                  |
 |--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Bill-rand](/assets/images/2020-8-26-course-computational-agent-based-modeling/Rand-Bill.jpg ) | The instructor for this course was Dr. Bill Rand, assistant professor of Business Management at the Poole College of Management at North Carolina State University and a computer scientist by training. He recently co-authored a textbook on agent-based modeling with Uri Wilensky, the author of the NetLogo programming language. |
+| ![Bill-rand](/assets/images/2020-8-26-course-computational-agent-based-modeling/Rand-Bill.jpg ) | Bill Rand is the assistant professor of Business Management at the Poole College of Management at North Carolina State University and a computer scientist by training. He recently co-authored a textbook on agent-based modeling with Uri Wilensky, the author of the NetLogo programming language. |
 
 In this course the instructor helped the students explore why agent-based modeling (ABM) is a powerful new way to understand complex systems. ABM was and is used in the past and present to study everything from economics to biology to political science to business and management.
 
@@ -115,37 +122,52 @@ There are alot of properties that we can be configured for an environment. Space
   * Discrete Lattice spaces such as Square (Von Neumann and Moore) or Hex (equal length)
   * Continous spaces
 
-#### Interactions
+### Interactions
 * Agent-agent
 * Agent-environment
 
 ### Verification and validation of a model
-#### Verification
-As previously mentioned, verification is usually done between an authors conceptual model and the developers constructed model.
 
-Many standards are maintained to ensure that the implemented model follows the conceptual model.
+A model is **verified** when the implemented model corresponds to the conceptual model.
 
-Proper documentation, programmatic testing and test cases/scenarios all manage the quality.
+Many standards are maintained to ensure that the implemented model follows the conceptual model. Proper documentation, programmatic testing and test cases/scenarios all manage to maintain the quality of the implemented model.
 
-* There are multiple ways we can conduct programmatic testing:
-  * Unit testing: Functional code tested separately
-  * Code walkthroughs: Examined in a group setting
-  * Debugging: Execution step by step
-  * Formal testing: Verification using formal logic
-  * Sensitivity analysis through spanning the behavior space
+* **Documentation:**
+  * What is the model
+  * How does the model work
+  * How can a user use the model
+  * What aspects should the user notice
+  * What variables should the user vary
+  * Additional ways to expand the model
+  * Other similar models
+  * Credits and references
 
-* Test cases can be done in the following ways:
-  * Corner cases: Extreme values
-  * Sampled cases: Subset of parameters to discover behavior
-  * Specific scenarios: Relationship between inputs and outputs
+* **Programmatic testing:**
+  * Unit testing: Functional code that is tested separately
+  * Code walkthroughs: Code that is examined in a group setting
+  * Debugging: Execution of the program in step by step manner
+  * Formal testing: Verification of the model using formal logic
+  * Sensitivity analysis by spanning the behavior space
 
-##### Reasons for failure
-* Bugs
-* Miscommunication
-* Emergence
+* **Test cases:**
+  * Corner cases: Test for extreme values
+  * Sampled cases: Create a subset of parameters to discover new behavior
+  * Specific scenarios: Find the relationship between inputs and outputs
+  
+  A model is **validated** when the implemented model succesfully simulates the real world. 
 
-##### Benefits of verification
-* Aids in understanding
-* Micro-rules lead to Macro-rules
-* Validation
-* Implemented model corresponds to the real world
+### Failure of a model
+
+There are multiple reasons why a model can fail. Some of the likely reasons are as follows:
+
+* Bugs: Error in the implemented code
+* Miscommunication: Misrepresentation of the conceptual model in the implemented model
+* Emergence: The conceptual model is correct, but expected results were incorrect or that the implemented model displayed behaviour that could not have been predicted in the first place.
+
+#### Benefits of verification
+
+There are other unique benefits of verification.
+
+* Aids in understanding: A better in-depth understanding is often derived from conducting verfication
+* Micro-rules lead to Macro-rules: Macro-rules can be identified that can be used for other models
+* Validation: Verification ultimately leads to validation, which is the most sought after part of modeling
