@@ -117,15 +117,18 @@ There are alot of properties that we can be configured for an environment. Space
 * Discrete
 * Continuous
 * Externally imported environments
-
+  
+| Types of boundaries|
 | Toroidal | Bounded | Infinite plane arrangement |
 | -------- | ------- | -------------------------- |
-| ![Toroidal world](/assets/images/2020-8-26-course-computational-agent-based-modeling/portal.gif ) | ![Bounded](/assets/images/2020-8-26-course-computational-agent-based-modeling/snakes.gif ) | ![Inifnite plane](/assets/images/2020-8-26-course-computational-agent-based-modeling/pacman.gif ) |
+| ![Toroidal world](/assets/images/2020-8-26-course-computational-agent-based-modeling/portal.gif ) | ![Bounded](/assets/images/2020-8-26-course-computational-agent-based-modeling/snakes.gif ) | ![Inifnite plane](/assets/images/2020-8-26-course-computational-agent-based-modeling/pacman.gif) |
 
 **Boundary:**
 * Toroidal/wrapped/Pac-Man
 * Bounded
 * Infinite plane arrangement.
+
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/small-world.png" description="Example of small world network. Image from https://www.nature.com/articles/30918" %}
 
 **Topology:**
 * 3-dimensional
@@ -137,13 +140,11 @@ There are alot of properties that we can be configured for an environment. Space
   * Small world
   * Real world data
   
-{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/small-world.jpg" description="Example of small world network. Image from https://www.nature.com/articles/30918" %}
-  
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/neighborhood_types.png" description="Example of spatial environment. Image from https://www.raywenderlich.com" %}  
 * Spatial environment:
   * Discrete Lattice spaces such as Square (Von Neumann and Moore) or Hex (equal length)
   * Continous spaces
-  
-{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/neighborhood_types.jpg" description="Example of spatial environment. Image from https://www.raywenderlich.com" %}
+
 
 #### Interactions
 * Agent-agent
@@ -164,6 +165,8 @@ Many standards are maintained to ensure that the implemented model follows the c
   * Additional ways to expand the model
   * Other similar models
   * Credits and references
+  
+![Verification](/assets/images/2020-8-26-course-computational-agent-based-modeling/unit-test.gif)
 
 * **Programmatic testing:**
   * Unit testing: Functional code that is tested separately
@@ -186,6 +189,8 @@ There are multiple reasons why a model can fail. Some of the likely reasons are 
 * Bugs: Error in the implemented code
 * Miscommunication: Misrepresentation of the conceptual model in the implemented model
 * Emergence: The conceptual model is correct, but expected results were incorrect or that the implemented model displayed behaviour that could not have been predicted in the first place.
+
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/emergence.jpg" description="Power law as seen in different adapting cells and organism. Images from www.images.google.com" %}  
 
 #### Benefits of verification
 
