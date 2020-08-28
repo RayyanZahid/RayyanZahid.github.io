@@ -23,9 +23,12 @@ Furthermore, the course not only taught how to build models from the ground up u
 ### What is a model?
 A model is an abstracted description of a process where certain aspects of the process are either exaggerated or ignored to understand the subject of the study.
 
+
 {% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/Solar-system-scale.jpg" description="Exaggerated model of our solar system. Image by: https://deskarati.com" %}
 
 In practice, the conceptual model is designed by the researchers (also known as the authors) who are simulating some aspect of the real world. The conceptual model is then implemented by a developer, who constructs the program using a flowchart or a pseudocode provided by the author. For the proper implementation of the conceptual model, it is important to reduce the communication gap between the author and developer. Modeling tools such as NetLogo, which has a "low threshold and high ceiling", do this by having a human-centered design, intuitive programming language and strict documentation standards.
+
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/model-structure.jpg" description="A flow diagram of modeling real-world systems. Image adapted from AutoDesk" %}
 
 ### Representation
 
@@ -35,6 +38,8 @@ All other challenges aside, for a model, having the right representation can som
 
 Representation is the name of the game when dealing with complex systems.
 
+{% include image.html url="/assets/images/2020-8-26-course-computational-agent-based-modeling/BK Complex.jpg" description="Network diagram against the background" %}
+
 ### Complex Systems
 
 > Every real world system is inherently complex. - Tamas Vicsek, 2002
@@ -43,9 +48,9 @@ Complex systems are composed of multiple interacting parts that are all connecte
 
 Historically we have used two ways to build our scientific understanding of the world: induction and deduction.
 
-#### Induction, deduction & the third new science
+#### Induction, deduction & the third new way of science
 
-Induction is when we infer from data sets to come up with a general theory. Deduction is when we argue from first principles to get to a general theory. However, in the last few decades, a third new way of science has emerged, simulation or generative.
+Induction is when we infer from data sets to come up with a general theory. Deduction is when we argue from first principles to get to a general theory. However, in the last few decades, a third new way of science has emerged, simulation or generative reasoning.
 
 Axelrod in 1997 argued in his paper "Advancing the Art of Simulation in the Social Sciences" that simulation is a third way of science. In simplified terms, this new way of science, just like in deduction, we argue from first principles but instead of coming up with a general theory, we creates sets of datasets from the principles. We then use induction to infer from the dataset a general theory. We call this simulation or generative reasoning.
 
