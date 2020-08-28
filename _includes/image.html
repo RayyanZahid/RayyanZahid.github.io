@@ -1,6 +1,15 @@
 <figure>
   <img src="{{ include.url }}" alt="{{ include.description }}"/>
-  <center>
     <figcaption>{{ include.description }}</figcaption>
-  </center>
 </figure>
+
+figure .image {
+    width: 100%;
+}
+
+figure {
+    text-align: center;
+    display: table;
+    max-width: 30%; /* demo; set some amount (px or %) if you can */
+    margin: 10px auto; /* not needed unless you want centered */
+}
