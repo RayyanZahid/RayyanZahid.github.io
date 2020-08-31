@@ -3,39 +3,27 @@
 # Url is the URL that gets added to the master.
 
 main:
-       
-  - title: "Newsletter"
-    url: https://www.elevatebyrayyan.com/
-    
+
   - title: "Courses"
     url: /courses/
-    
-  - title: "Webinars"
-    url: /webinars/
     
   - title: "Writings"
     url: /writings/
     
   - title: "Audio"
     url: /audio/
-    
-  - title: "Projects"
-    url: /projects/
-    
-  - title: "CV"
-    url: /cv/
-    
+        
   - title: "Readings"
     url: /readings/
     
+  - title: "Webinars"
+    url: /webinars/
+
+  - title: "Newsletter"
+    url: https://www.elevatebyrayyan.com/
+
+  - title: "Organizations"
+    url: /organization/
+    
   - title: "Social"
     url: /social/
-    
-  - title: "About me"
-    url: /about/
-        
-  - title: "Design"
-    url: /design/
-    
-  - title: "Software"
-    url: /software/
