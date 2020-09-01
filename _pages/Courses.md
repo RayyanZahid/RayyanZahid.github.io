@@ -14,6 +14,11 @@ title: "Online courses"
 ### July
 - **Origins of Life** - Complexity Explorer, *Santa Fe Institute* - [(More info)][4][(Personal blog)][1][(Certificate)][2][(Course)][3]
 
+## 2019
+- **Critical Thinking: Fundamentals of Good Reasoning** - Critical Thinking, *IsraelX* - [(course)](https://www.edx.org/course/critical-thinking-fundamentals-of-good-reasoning-2)  
+- **Philosophy and Critical Thinking** - META101x, *The University of Queensland* - [(course)](https://www.edx.org/course/philosophy-and-critical-thinking)
+- **Greatest Unsolved Mysteries of the Universe** - Astro101x, *Australian National University* - [(course)](https://www.edx.org/course/greatest-unsolved-mysteries-of-the-universe)
+
 <!-- Origins of Life -->
 <!-- Personal Blog--> [1]: <https://medium.com/@rayyanzahid/origin-of-life-acbf574e8526> "Medium: Origins of Life - Leading Theories and Develpoments by Rayyan Zahid"
 <!-- Certificate  --> [2]: <https://raw.githubusercontent.com/RayyanZahid/RayyanZahid.github.io/master/assets/images/courses/High%20res.jpg> "Course certificate"
