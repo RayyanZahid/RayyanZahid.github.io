@@ -76,7 +76,8 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  </ul>
 </p>
 </details>
-#### *Curriculum is flexible and subject to change to accomodate customized learning.* 
+
+##### Curriculum is flexible and subject to change to accomodate customized learning.
 
 ## To sign up, send an inquiry to:
 
