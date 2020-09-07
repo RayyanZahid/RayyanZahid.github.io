@@ -7,15 +7,16 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 
 ## Program details:
-| Details | Information |
-| ---------------------- | ----------------------------------|
-| Course length | 4 weeks |
-| Number of classes | 8 classes |
-| Length of each class | 1 hour |
-| Mode of study | Google class room and Google meet |
-| Format | Personalised 1-to-1 classes with guided projects |
-| Audience | Ages 14+ (Younger audience can be facilitated) |
-| Cost | $60/hr |
+
+| Details              | Information                                      |
+|----------------------|--------------------------------------------------|
+| Course length        | 4 weeks                                          |
+| Number of classes    | 8 classes                                        |
+| Length of each class | 1 hour                                           |
+| Mode of study        | Google class room and Google meet                |
+| Format               | Personalised 1-to-1 classes with guided projects |
+| Audience             | Ages 14+ (Younger audience can be facilitated)   |
+| Cost                 | $60/hr                                           |
 
 ## What you will learn:
 - Learn the history and basics of programming, systems and simulations. 
@@ -52,8 +53,8 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 </summary>
 <p>
  
-- Class 1: First guided project: Obstacle avoidance and mouse tracking.
-- Class 2: Second guided project: Cellular Automata.
+- Class 1: First guided project - Obstacle avoidance and mouse tracking.
+- Class 2: Second guided project - Cellular Automata.
 - Weekly assignment and extra reading. </p>
 </details>
 
@@ -63,8 +64,8 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 </summary>
 <p>
  
-- Class 1: Third guided project: Forest Fire modeling.
-- Class 2: Fourth guided project: Network modeling.
+- Class 1: Third guided project - Forest Fire modeling.
+- Class 2: Fourth guided project - Network modeling.
 - Weekly assignment and extra reading.
  </p>
 </details>
