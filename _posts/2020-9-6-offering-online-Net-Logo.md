@@ -6,6 +6,8 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 ---
 ![Featured image](/assets/images/courses/NetLogo-poster.jpg)
 
+"Introduction to Complex Systems, Simulations & NetLogo" is a 4-weeks interdisciplinary 1-to-1 remote online course on simulating and analysing complex systems using agent based modeling in the NetLogo Programming Environment.
+
 ## Program details:
 
 | Details              | Information                                      |
