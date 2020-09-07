@@ -7,6 +7,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 
 ## Program details:
+| Details |  |
 | ------------- | --------------|
 | Course length | 4 weeks |
 | Number of classes | 8 classes |
@@ -25,8 +26,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 ## Curriculum:
 <details>
 <summary>
- 
-### Week 1
+<h3> Week 1 </h3>
 </summary>
 <p>
  
@@ -37,8 +37,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
- 
-### Week 2
+<h3> Week 2 </h3>
 </summary>
 <p>
  
@@ -49,8 +48,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
- 
-### Week 3
+<h3> Week 3 </h3>
 </summary>
 <p>
  
@@ -61,8 +59,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
- 
-### Week 4
+<h3> Week 4 </h3>
 </summary>
 <p>
  
@@ -72,8 +69,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  </p>
 </details>
 
-To sign up, send an inquiry to:
-
+## To sign up, send an inquiry to:
 
 <body>
  <form name="input" method="POST" action="https://formspree.io/connect@rayyanzahid.com">
