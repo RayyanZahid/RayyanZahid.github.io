@@ -7,8 +7,8 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 
 ## Program details:
-| Details |  |
-| ------------- | --------------|
+| Details | Information |
+| ---------------------- | ----------------------------------|
 | Course length | 4 weeks |
 | Number of classes | 8 classes |
 | Length of each class | 1 hour |
@@ -26,7 +26,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 ## Curriculum:
 <details>
 <summary>
-<h3> Week 1 </h3>
+ Week 1
 </summary>
 <p>
  
@@ -37,7 +37,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
-<h3> Week 2 </h3>
+ Week 2
 </summary>
 <p>
  
@@ -48,7 +48,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
-<h3> Week 3 </h3>
+ Week 3
 </summary>
 <p>
  
@@ -59,7 +59,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
-<h3> Week 4 </h3>
+ Week 4
 </summary>
 <p>
  
