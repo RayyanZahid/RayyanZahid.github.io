@@ -76,6 +76,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  </ul>
 </p>
 </details>
+##### *Curriculum is flexible and subject to change to accomodate customized learning. 
 
 ## To sign up, send an inquiry to:
 
@@ -83,7 +84,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  <form name="input" method="POST" action="https://formspree.io/connect@rayyanzahid.com">
   Name: <input type="text" name="Name" placeholder="Your name">
   Email: <input type="email" name="_replyto" placeholder="Your email">
-  Message: <textarea name="message" placeholder="Enter your contact details so that rayyan can reach you out."></textarea>
+  Message: <textarea name="message" placeholder="Enter your contact details so that Rayyan can reach you out."></textarea>
   <input type="submit" value="Send"> 
   <input type="hidden" name="_subject" value="Enter your subject here" />
   <!--<input type="hidden" name="_next" value="thanks.html" />-->
