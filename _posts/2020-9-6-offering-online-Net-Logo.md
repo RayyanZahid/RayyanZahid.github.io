@@ -46,7 +46,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 </summary>
 <p>
   <ul>
-  <li> Class 1: First guided project - Obstacle avoidance and mouse tracking. </li>
+  <li> Class 1: : Basic programming elements in Agent Based Modeling and first simple programme. </li>
   <li> Class 2: Basics: guided examples of various features and elements. Exploring the NetLogo dictionary. </li>
   <li> Weekly assignment and extra reading. </li>
  </ul>
