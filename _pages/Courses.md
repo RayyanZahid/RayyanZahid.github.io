@@ -4,7 +4,7 @@ title: "Online courses"
 ---
 
 ## Courses taught by Rayyan
-- **Online Course: Introduction to Complex Systems, Simulations & NetLogo** - 4 week 1-to-1 guided course. [(More info)][https://rayyanzahid.com/offering-online-Net-Logo/]
+- **Online Course: Introduction to Complex Systems, Simulations & NetLogo** - 4 week 1-to-1 guided course. [(More info)](https://rayyanzahid.com/offering-online-Net-Logo/)
 
 
 # Courses completed
