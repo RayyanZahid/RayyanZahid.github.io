@@ -68,12 +68,12 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  Week 4
 </summary>
 <p>
-  <ul>
+ <ul>
   <li> Class 1: Third guided project - Forest Fire modeling. </li>
   <li> Class 2: Fourth guided project - Network modeling. </li>
   <li> Weekly assignment and extra reading. </li>
  </ul>
- </p>
+</p>
 </details>
 
 ## To sign up, send an inquiry to:
