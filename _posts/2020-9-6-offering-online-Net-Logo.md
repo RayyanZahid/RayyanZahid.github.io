@@ -30,10 +30,12 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  Week 1
 </summary>
 <p>
- 
- - Class 1: Introduction to systems, complex systems, Agent Based Modeling and NetLogo examples.  
- - Class 2: History of functional and OO programming. Downloading, installing NetLogo and user interface.  
- - Weekly assignment and extra reading </p>
+  <ul>
+  <li> Class 1: Introduction to systems, complex systems, Agent Based Modeling and NetLogo examples. </li>
+  <li> Class 2: History of functional and OO programming. Downloading, installing NetLogo and user interface. </li>
+  <li> Weekly assignment and extra reading </li>
+ </ul>
+</p>
 </details>
 
 <details>
@@ -41,10 +43,12 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  Week 2
 </summary>
 <p>
- 
- - Class 1: Basic programming elements in Agent Based Modeling and first simple program.
- - Class 2: Basics: guided examples of various features and elements. Exploring the NetLogo dictionary.
- - Weekly assignment and extra reading. </p>
+  <ul>
+  <li> Class 1: First guided project - Obstacle avoidance and mouse tracking. </li>
+  <li> Class 2: Basics: guided examples of various features and elements. Exploring the NetLogo dictionary. </li>
+  <li> Weekly assignment and extra reading. </li>
+ </ul>
+</p>
 </details>
 
 <details>
@@ -52,10 +56,11 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  Week 3
 </summary>
 <p>
- 
- - Class 1: First guided project - Obstacle avoidance and mouse tracking.
- - Class 2: Second guided project - Cellular Automata.
- - Weekly assignment and extra reading. </p>
+ <ul>
+  <li> Class 1: First guided project - Obstacle avoidance and mouse tracking. </li>
+  <li> Class 2: Second guided project - Cellular Automata. </li>
+  <li> Weekly assignment and extra reading. </li>
+</p>
 </details>
 
 <details>
@@ -63,10 +68,11 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  Week 4
 </summary>
 <p>
- 
- - Class 1: Third guided project - Forest Fire modeling.
- - Class 2: Fourth guided project - Network modeling.
- - Weekly assignment and extra reading.
+  <ul>
+  <li> Class 1: Third guided project - Forest Fire modeling. </li>
+  <li> Class 2: Fourth guided project - Network modeling. </li>
+  <li> Weekly assignment and extra reading. </li>
+ </ul>
  </p>
 </details>
 
