@@ -3,12 +3,11 @@ permalink: /courses/
 title: "Online courses"
 ---
 
-## Teaching courses
-| Course image                                                 | Details                                                               |
-|--------------------------------------------------------------|-----------------------------------------------------------------------|
-| ![Featured image](/assets/images/courses/NetLogo-poster.jpg) | <button name="button" onclick="http://www.google.com">Click me</button> |
+## Courses taught by Rayyan
+- **Online Course: Introduction to Complex Systems, Simulations & NetLogo** - 4 week 1-to-1 guided course. [(More info)][https://rayyanzahid.com/offering-online-Net-Logo/]
 
 
+# Courses completed
 ## 2020
 ### August
 - **(Ongoing) In-depth Look at Human Brain Evolution** - Further reflection, *American Humanist Association* - [(More Info)](https://rayyanzahid.com/human-brain-evolution-AHA/)[(Pre-cursor)](https://americanhumanistcenterforeducation.org/?p=19921)
