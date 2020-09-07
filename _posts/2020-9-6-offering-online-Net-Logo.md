@@ -7,6 +7,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 
 ## Program details:
+| ------------- | --------------|
 | Course length | 4 weeks |
 | Number of classes | 8 classes |
 | Length of each class | 1 hour |
@@ -24,9 +25,11 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 ## Curriculum:
 <details>
 <summary>
+ 
 ### Week 1
 </summary>
 <p>
+ 
 - Class 1: Introduction to systems, complex systems, Agent Based Modeling and NetLogo examples.  
 - Class 2: History of functional and OO programming. Downloading, installing NetLogo and user interface.  
 - Weekly assignment and extra reading </p>
@@ -34,9 +37,11 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
+ 
 ### Week 2
 </summary>
 <p>
+ 
 - Class 1: Basic programming elements in Agent Based Modeling and first simple program.
 - Class 2: Basics: guided examples of various features and elements. Exploring the NetLogo dictionary.
 - Weekly assignment and extra reading. </p>
@@ -44,9 +49,11 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
+ 
 ### Week 3
 </summary>
 <p>
+ 
 - Class 1: First guided project: Obstacle avoidance and mouse tracking.
 - Class 2: Second guided project: Cellular Automata.
 - Weekly assignment and extra reading. </p>
@@ -54,9 +61,11 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 
 <details>
 <summary>
+ 
 ### Week 4
 </summary>
 <p>
+ 
 - Class 1: Third guided project: Forest Fire modeling.
 - Class 2: Fourth guided project: Network modeling.
 - Weekly assignment and extra reading.
