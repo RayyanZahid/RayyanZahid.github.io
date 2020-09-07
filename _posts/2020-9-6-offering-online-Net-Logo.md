@@ -56,10 +56,11 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
  Week 3
 </summary>
 <p>
- <ul>
+  <ul>
   <li> Class 1: First guided project - Obstacle avoidance and mouse tracking. </li>
   <li> Class 2: Second guided project - Cellular Automata. </li>
   <li> Weekly assignment and extra reading. </li>
+ </ul>
 </p>
 </details>
 
