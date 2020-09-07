@@ -7,7 +7,7 @@ title: "Online courses"
 - **Online Course: Introduction to Complex Systems, Simulations & NetLogo** - 4 week 1-to-1 guided course. [(More info)](https://rayyanzahid.com/offering-online-Net-Logo/)
 
 
-# Courses completed
+## Courses completed
 ## 2020
 ### August
 - **(Ongoing) In-depth Look at Human Brain Evolution** - Further reflection, *American Humanist Association* - [(More Info)](https://rayyanzahid.com/human-brain-evolution-AHA/)[(Pre-cursor)](https://americanhumanistcenterforeducation.org/?p=19921)
