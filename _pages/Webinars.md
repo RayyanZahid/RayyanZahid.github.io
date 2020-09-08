@@ -4,6 +4,15 @@ title: "Webinars"
 ---
 
 ## 2020
+### October
+- [Upcoming][Speaker] Climate Crisis and its Solutions Presentations - AIESEC UCLA
+
+### September
+- [Upcoming 27th][Moderator] Panel Discussion: Future of Urban Cities
+- [Upcoming 26th][Speaker] Climate Crisis and its Solutions Presentations - PakLaunch.com
+- [Upcoming 19th][Speaker] Climate Crisis and its Solutions Presentations - The Talent Generation
+- [Upcoming 12th][Speaker] Climate Crisis and its Solutions Presentations - CBS
+
 ### August
 - [Moderator] [Knowledge Platform: Bringing About the EdTech Revolution in Pakistan][8] - [*PakLaunch*][4]
 
