@@ -16,6 +16,7 @@ title: "Audio"
 
 #### [Transcribed] Reason for Vegan Series: The Egg Industry Exposed
 <iframe src="https://open.spotify.com/embed-podcast/episode/69JRSwsnqslbpmz2XjBV6d" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[Transcription][5]
 
 #### [Transcribed] Episode 2: Meat is not "Essential" and Free From Harm's Robert Grillo
 <iframe src="https://open.spotify.com/embed-podcast/episode/3vmliEeAq8c6jeELLAk3nT" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> [Transcription][4]
@@ -30,4 +31,5 @@ title: "Audio"
 [2]: <https://complexity.simplecast.com/episodes/39/transcript>
 [3]: <https://hopefortheanimalspodcast.org/episode-1-speciesism-and-the-covid-19-crisis/>
 [4]: <https://hopefortheanimalspodcast.org/episode-2-meat-is-not-essential-and-free-from-harms-robert-grillo/>
+[5]: <https://hopefortheanimalspodcast.org/reason-for-vegan-series-1-the-egg-industry-exposed/>
 
