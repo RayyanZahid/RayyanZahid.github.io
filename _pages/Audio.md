@@ -14,6 +14,9 @@ title: "Audio"
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/533697c5-7906-4173-bf33-61aad6d6c372?dark=true"></iframe>
 [Transcription][2]
 
+#### [Transcribed] Reason for Vegan Series: The Egg Industry Exposed
+<iframe src="https://open.spotify.com/embed-podcast/episode/69JRSwsnqslbpmz2XjBV6d" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 #### [Transcribed] Episode 2: Meat is not "Essential" and Free From Harm's Robert Grillo
 <iframe src="https://open.spotify.com/embed-podcast/episode/3vmliEeAq8c6jeELLAk3nT" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe> [Transcription][4]
 
