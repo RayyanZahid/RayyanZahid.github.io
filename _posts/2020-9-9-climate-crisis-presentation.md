@@ -30,9 +30,9 @@ Rayyan Zahid was personally trained by former US Vice President Al Gore and The 
  
 He is one of over 20,000 trained Climate Reality Leaders from over 150 countries. The Climate Reality Leadership Corps has been extraordinarily successful at reaching people in their communities and informing them about the climate crisis and the solutions – local, national, and global – that we can all start supporting now.
 
-Newsletter: elevatebyrayyan.com
-Twitter: twitter.com/rayyanzahid
-Medium: medium.com/@rayyanzahid
-Website rayyanzahid.com
+Newsletter: elevatebyrayyan.com  
+Twitter: twitter.com/rayyanzahid  
+Medium: medium.com/@rayyanzahid  
+Website: rayyanzahid.com  
 
 ### Moderator Details:
