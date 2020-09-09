@@ -14,6 +14,10 @@ title: "Audio"
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/533697c5-7906-4173-bf33-61aad6d6c372?dark=true"></iframe>
 [Transcription][2]
 
+#### [Transcribed] Reason for Vegan Series 2: The Chicken Meat Industry Exposed
+<iframe src="https://open.spotify.com/embed-podcast/episode/6IqamPnqQpHKVBn1kmqGOf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[Transcription][6]
+
 #### [Transcribed] Reason for Vegan Series: The Egg Industry Exposed
 <iframe src="https://open.spotify.com/embed-podcast/episode/69JRSwsnqslbpmz2XjBV6d" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 [Transcription][5]
@@ -32,4 +36,5 @@ title: "Audio"
 [3]: <https://hopefortheanimalspodcast.org/episode-1-speciesism-and-the-covid-19-crisis/>
 [4]: <https://hopefortheanimalspodcast.org/episode-2-meat-is-not-essential-and-free-from-harms-robert-grillo/>
 [5]: <https://hopefortheanimalspodcast.org/reason-for-vegan-series-1-the-egg-industry-exposed/>
+[6]: <https://hopefortheanimalspodcast.org/reason_for_vegan_series_2_the_chicken_meat_industry_exposed/>
 
