@@ -8,12 +8,9 @@ tags: Climate-Reality-Project Online-Webinar Climate-Change
 
 ### Details
 
-| Webinar for | Venue       | Date      | Time         | Webinar link                 | Event Link | RSVP required | Moderator      | 
-|-------------|-------------|-----------|--------------|------------------------------|------------|---------------|----------------| 
-| CBS         | Google meet | Sep, 12th | 9pm-10pm PKT | meet.google.com/vdd-wiyr-vwn |            | Yes           | Safi-ur-Rehman | 
-
-
-
+| Webinar for | Venue       | Date      | Time         | Webinar link                                                  | Event Link | RSVP required | Moderator      | 
+|-------------|-------------|-----------|--------------|---------------------------------------------------------------|------------|---------------|----------------| 
+| CBS         | Google meet | Sep, 12th | 9pm-10pm PKT | (meet.google.com/vdd-wiyr-vwn)[meet.google.com/vdd-wiyr-vwn]  |            | Yes           | Safi-ur-Rehman | 
 
 ### Event Description
 
