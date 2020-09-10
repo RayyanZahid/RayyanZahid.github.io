@@ -8,7 +8,7 @@ tags: Climate-Reality-Project Online-Webinar Climate-Change
 
 | Webinar for               | Venue       | Date      | Time         | Event link                                                                                                                  | Registration Required | Moderator     | 
 |---------------------------|-------------|-----------|--------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------| 
-| Zara Shafique and friends | Google meet | Sep, 19th | 9pm-10pm PKT | [EventBrite](www.eventbrite.com/e/climate-crisis-and-its-solutions-by-rayyan-zahid-zara-shafique-registration-120387023829) | Yes                   | Zara Shafique | 
+| Zara Shafique and friends | Google meet | Sep, 19th | 9pm-10pm PKT | [EventBrite](https://www.eventbrite.com/e/climate-crisis-and-its-solutions-by-rayyan-zahid-zara-shafique-registration-120387023829) | Yes                   | Zara Shafique | 
 
 
 ### Event Description
