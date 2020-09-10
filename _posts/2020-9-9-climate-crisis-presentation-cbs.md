@@ -25,9 +25,28 @@ Following the presentation there will be a Q&A session. Questions can be submitt
 
 There is no charge for this online event, but please RSVP below in advance.
 
-### RSVP using the form below:
+### Register on EventBrite:
 
-<div class="typeform-widget" data-url="https://form.typeform.com/to/KCm59Ivo" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=KCm59Ivo&utm_source=typeform.com-01E8V701QXRC43Y1J88RMVCTYR-free&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+<div id="eventbrite-widget-container-120367942757"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '120367942757',
+        iframeContainerId: 'eventbrite-widget-container-120367942757',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
 ### Speaker Details:
 The guest speaker, Rayyan Zahid is a systems thinker and a researcher in software language design at a startup in San Francisco. In light of the recent global risks, he is currently writing a book on the future of humanity. He is also a life-long global citizen of AIESEC and the Vice President Marketing of GIKI Alumni Association.
