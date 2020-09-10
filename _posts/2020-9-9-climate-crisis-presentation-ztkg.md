@@ -1,10 +1,15 @@
 ---
 classes: wide
-title:  "[Webinar] Climate Crisis and Its Solutions presentation by Rayyan Zahid to The Knowledge Generation "
-excerpt: Join Rayyan on the 19th, as he presents "The Climate Crisis and Its Solutions" to The Knowledge Generation group.
+title:  "[Webinar] Climate Crisis and Its Solutions presentation by Rayyan Zahid to The Talent Generation "
+excerpt: Join Rayyan on the 19th, as he presents "The Climate Crisis and Its Solutions" to The Talent Generation group.
 tags: Climate-Reality-Project Online-Webinar Climate-Change
 ---
 ![Featured image](/assets/images/webinar/climate-reality-project/Climate Crisis and Its Solutions poster.jpg)
+
+| Webinar for               | Venue       | Date      | Time         | Event link                                                                                                                  | Registration Required | Moderator     | 
+|---------------------------|-------------|-----------|--------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------| 
+| Zara Shafique and friends | Google meet | Sep, 19th | 9pm-10pm PKT | [EventBrite](www.eventbrite.com/e/climate-crisis-and-its-solutions-by-rayyan-zahid-zara-shafique-registration-120387023829) | Yes                   | Zara Shafique | 
+
 
 ### Event Description
 
@@ -19,9 +24,28 @@ Following the presentation there will be a Q&A session. Questions can be submitt
 
 There is no charge for this online event, but please RSVP below in advance.
 
-### RSVP:
+### Registration:
 
-<div class="typeform-widget" data-url="https://form.typeform.com/to/Sn9mYT95" style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> <div style="font-family: Sans-Serif;font-size: 12px;color: #999;opacity: 0.5; padding-top: 5px;"> powered by <a href="https://admin.typeform.com/signup?utm_campaign=Sn9mYT95&utm_source=typeform.com-01E8V701QXRC43Y1J88RMVCTYR-free&utm_medium=typeform&utm_content=typeform-embedded-poweredbytypeform&utm_term=EN" style="color: #999" target="_blank">Typeform</a> </div>
+<div id="eventbrite-widget-container-120387023829"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '120387023829',
+        iframeContainerId: 'eventbrite-widget-container-120387023829',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
 ### Speaker Details:
 The guest speaker, Rayyan Zahid is a systems thinker and a researcher in software language design at a startup in San Francisco. In light of the recent global risks, he is currently writing a book on the future of humanity. He is also a life-long global citizen of AIESEC and the Vice President Marketing of GIKI Alumni Association.
@@ -34,5 +58,3 @@ Newsletter: elevatebyrayyan.com
 Twitter: twitter.com/rayyanzahid  
 Medium: medium.com/@rayyanzahid  
 Website: rayyanzahid.com  
-
-### Moderator Details:
