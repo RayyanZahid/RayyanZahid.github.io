@@ -21,7 +21,7 @@ In "Climate Crisis and its Solutions: Truth in Ten", Rayyan will answer three ma
 
 The presentation is backed with our updated understanding of climate science and includes numerous examples of how the Climate Crisis is already affecting our world in 2020. There is a need for alarm but also optimism with regards to solving the crisis. Creative solutions to the problem are emerging as businesses, communities and governments take action.
 
-Following the presentation there will be a Q&A session. Questions can be submitted in advance by emailing *Moderator name* at *moderator email*. They can also be posted in the chat room during the meeting.
+Following the presentation there will be a Q&A session. Questions can be submitted in advance by contacting Safi-ur-Rehman. They can also be posted in the chat room during the meeting.
 
 There is no charge for this online event, but please RSVP below in advance.
 
