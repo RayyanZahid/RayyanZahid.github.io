@@ -1,6 +1,6 @@
 ---
 classes: wide
-title:  "[Webinar] Climate Crisis and Its Solutions presentation by Rayyan Zahid to The Knowledge Generation "
+title:  "[Webinar] Climate Crisis and Its Solutions presentation by Rayyan Zahid to the Character Building Society "
 excerpt: Join Rayyan on the 12th, as he presents "The Climate Crisis and Its Solutions" to the Character Building Society.
 tags: Climate-Reality-Project Online-Webinar Climate-Change
 ---
