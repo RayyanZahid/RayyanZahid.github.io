@@ -4,7 +4,16 @@ title:  "[Webinar] Climate Crisis and Its Solutions presentation by Rayyan Zahid
 excerpt: Join Rayyan on the 12th, as he presents "The Climate Crisis and Its Solutions" to the Character Building Society.
 tags: Climate-Reality-Project Online-Webinar Climate-Change
 ---
-![Featured image](/assets/images/webinar/climate-reality-project/Climate Crisis and Its Solutions poster.jpg)
+![Featured image](/assets/images/webinar/climate-reality-project/CBS - Climate Crisis and Its Solutions poster.jpg)
+
+### Details
+
+|             |           |              |                              |            |               | 
+|-------------|-----------|--------------|------------------------------|------------|---------------| 
+| Venue       | Date      | Time         | Webinar link                 | Event Link | RSVP required | 
+| Google meet | Sep, 12th | 9pm-10pm PKT | meet.google.com/vdd-wiyr-vwn |            | Yes           | 
+
+
 
 ### Event Description
 
