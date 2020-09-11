@@ -111,7 +111,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
           return actions.order.create({
               purchase_units: [{
                   amount: {
-                      value: '1'
+                      value: '60'
                   }
               }]
           });
