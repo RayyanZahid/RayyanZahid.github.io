@@ -63,3 +63,8 @@ Website: [rayyanzahid.com](rayyanzahid.com)
 
 ### Moderator Details:
 Our moderator for the evening, Safi-ur-Rehman is currently a sophomore student at GIKI, and a member of CBS and AIESEC in GIKI. Enthusiastic about environmental management, Safi has worked previously with WWF Pakistan, SLF Pakistan, and IUCN (Cat Specialist Group) on several projects of nature conservation.
+
+### About Character Building Society - GIKI
+The Character Building Society (CBS) works on nurturing of its member’s character and moulding them into better beings.  
+The society's members are instilled with a sense of integrity, and confidence.  
+Aware of different problems within the area around them, CBS works hard to find the solutions. Delegating with multiple stakeholders to get a judicious plan on the table and implement it in the shortest time possible.
