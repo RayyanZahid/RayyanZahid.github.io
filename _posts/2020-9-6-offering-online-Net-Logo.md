@@ -97,11 +97,11 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
 ## Making a payment?
 
 <div id="paypal-button-container"></div>
-<script src="https://www.paypal.com/sdk/js?client-id=sb&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script src="https://www.paypal.com/sdk/js?client-id=AWE3EN6gsLkoUz-2WJTA9vcwHYZJuw43RMKsyNZiRBl2XBifyY5cdpq43iaxjexNwvRmkNLcKccMiwkc&currency=USD" data-sdk-integration-source="button-factory"></script>
 <script>
   paypal.Buttons({
       style: {
-          shape: 'pill',
+          shape: 'rect',
           color: 'gold',
           layout: 'vertical',
           label: 'paypal',
@@ -111,7 +111,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
           return actions.order.create({
               purchase_units: [{
                   amount: {
-                      value: '60'
+                      value: '1'
                   }
               }]
           });
