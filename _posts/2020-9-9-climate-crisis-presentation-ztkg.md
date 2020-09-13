@@ -54,7 +54,20 @@ Rayyan Zahid was personally trained by former US Vice President Al Gore and The 
  
 He is one of over 20,000 trained Climate Reality Leaders from over 150 countries. The Climate Reality Leadership Corps has been extraordinarily successful at reaching people in their communities and informing them about the climate crisis and the solutions – local, national, and global – that we can all start supporting now.
 
-Newsletter: elevatebyrayyan.com  
-Twitter: twitter.com/rayyanzahid  
-Medium: medium.com/@rayyanzahid  
-Website: rayyanzahid.com  
+Newsletter: [elevatebyrayyan.com](elevatebyrayyan.com)  
+Twitter: [twitter.com/rayyanzahid](twitter.com/rayyanzahid)  
+Medium:[medium.com/@rayyanzahid](medium.com/@rayyanzahid)  
+Website: [rayyanzahid.com](rayyanzahid.com)  
+
+### Moderator Details
+
+The moderator for the session, Zara Shafique is the founder and CEO of TTG. She has served as a T4D consultant to local and international development organizations with more than 12 years of experience in volunteering for social outreach, child rights and disaster relief activities. She is a science communicator and project manager at Rahe Qamar since 2014. She loves to travel, savoring regular mountain sabbaticals and exploring virgin communities.
+
+
+### What is The Talent Generation?
+
+TTG, formed in 2019, primarily focuses on training young people for skills to tackle challenges of 21st Century and develop solution-oriented progressive mindset. We also promote intensive dialogue to critically assess the social impact of communication technology through programs such as Mind Up and The Talking Course. The goal is to build local inclusive clusters for social cohesion through mindful conversations and empower youth leaders to leverage positive trends towards a more sustainable future. Currently, the group is working in Pakistan and focuses mainly on SDG #4: Quality education.
+
+
+
+
