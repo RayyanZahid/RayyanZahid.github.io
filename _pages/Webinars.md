@@ -11,7 +11,7 @@ title: "Webinars"
 - [Upcoming 27th][Organizer] Panel Discussion: Future of Urban Cities
 - [Upcoming 26th][Speaker] Climate Crisis and its Solutions: Truth in Ten - PakLaunch.com
 - [Upcoming 19th][Speaker] [Climate Crisis and its Solutions: Truth in Ten - The Talent Generation][9]
-- [Upcoming 12th][Speaker] [Climate Crisis and its Solutions: Truth in Ten - CBS][10]
+- [Speaker] [Climate Crisis and its Solutions: Truth in Ten - CBS][10]
 
 ### August
 - [Moderator] [Knowledge Platform: Bringing About the EdTech Revolution in Pakistan][8] - [*PakLaunch*][4]
