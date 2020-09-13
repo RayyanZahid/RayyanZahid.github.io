@@ -30,3 +30,6 @@ main:
 
   - title: "Resume"
     url: /resume/
+
+  - title: "Papers"
+    url: /paper/
