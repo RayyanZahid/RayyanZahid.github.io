@@ -126,7 +126,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
   
   
 #### Try an alternative method
-<div id='product-component-1599979651218'></div>
+<div id='product-component-1599980224969'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -155,7 +155,7 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('product', {
         id: '5779798032552',
-        node: document.getElementById('product-component-1599979651218'),
+        node: document.getElementById('product-component-1599980224969'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
@@ -168,13 +168,9 @@ tags: agent-based-modeling computational-modeling NetLogo complex-systems
         }
       }
     },
-    "contents": {
-      "img": false,
-      "title": false,
-      "price": false
-    },
+    "buttonDestination": "checkout",
     "text": {
-      "button": "Add to cart"
+      "button": "Buy now"
     }
   },
   "productSet": {
