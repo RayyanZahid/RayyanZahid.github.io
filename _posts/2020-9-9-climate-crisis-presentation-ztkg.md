@@ -8,7 +8,7 @@ tags: Climate-Reality-Project Online-Webinar Climate-Change
 
 | Webinar for               | Venue       | Date      | Time         | Event link                                                                                                                  | Registration Required | Moderator     | 
 |---------------------------|-------------|-----------|--------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------| 
-| Zara Shafique and friends | Google meet | Sep, 19th | 9pm-10pm PKT | [EventBrite](https://www.eventbrite.com/e/climate-crisis-and-its-solutions-by-rayyan-zahid-zara-shafique-registration-120387023829) | Yes                   | Zara Shafique | 
+| Zara Shafique and friends | Google meet | Sep, 19th | 5pm-6pm PKT | [EventBrite](https://www.eventbrite.com/e/climate-crisis-and-its-solutions-by-rayyan-zahid-zara-shafique-registration-120387023829) | Yes                   | Zara Shafique | 
 
 
 ### Event Description
@@ -67,7 +67,3 @@ The moderator for the session, Zara Shafique is the founder and CEO of TTG. She 
 ### What is The Talent Generation?
 
 TTG, formed in 2019, primarily focuses on training young people for skills to tackle challenges of 21st Century and develop solution-oriented progressive mindset. We also promote intensive dialogue to critically assess the social impact of communication technology through programs such as Mind Up and The Talking Course. The goal is to build local inclusive clusters for social cohesion through mindful conversations and empower youth leaders to leverage positive trends towards a more sustainable future. Currently, the group is working in Pakistan and focuses mainly on SDG #4: Quality education.
-
-
-
-
