@@ -14,6 +14,10 @@ title: "Audio"
 <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/533697c5-7906-4173-bf33-61aad6d6c372?dark=true"></iframe>
 [Transcription][2]
 
+#### [Transcribed] Reason for Vegan Series 3: “Cage-Free” and “Free-Range” Explained
+<iframe src="https://open.spotify.com/embed-podcast/episode/2Woemc7yb6TIDdGYX1K4e6" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+[Transcription][7]
+
 #### [Transcribed] Reason for Vegan Series 2: The Chicken Meat Industry Exposed
 <iframe src="https://open.spotify.com/embed-podcast/episode/6IqamPnqQpHKVBn1kmqGOf" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 [Transcription][6]
@@ -37,4 +41,5 @@ title: "Audio"
 [4]: <https://hopefortheanimalspodcast.org/episode-2-meat-is-not-essential-and-free-from-harms-robert-grillo/>
 [5]: <https://hopefortheanimalspodcast.org/reason-for-vegan-series-1-the-egg-industry-exposed/>
 [6]: <https://hopefortheanimalspodcast.org/reason_for_vegan_series_2_the_chicken_meat_industry_exposed/>
+[7]: <https://hopefortheanimalspodcast.org/reason-for-vegan-series-3-cage-free-and-free-range-explained/>
 
