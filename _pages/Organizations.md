@@ -16,8 +16,8 @@ title: "Organizations"
   
 | Previous                                                                           | Job Title                                                                  |                                                                                                                                                                            
 |------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
-| ![RB](/assets/images/organizations/RB.jpg)| Assistant Manager Ecommerce at (Reckitt Benckiser PLC)[https://www.rb.com/about-us/rb-pakistan/] |
-| ![AIESEC](/assets/images/organizations/AIESEC-Logo.png)| Board of Director at (AIESEC GIKI)[https://aiesec.org/] |
+| ![RB](/assets/images/organizations/RB.jpg)| Assistant Manager Ecommerce at [Reckitt Benckiser PLC](https://www.rb.com/about-us/rb-pakistan/) |
+| ![AIESEC](/assets/images/organizations/AIESEC-Logo.png)| Board of Director at [AIESEC GIKI](https://aiesec.org/) |
 | ![AIChE](/assets/images/organizations/AIChE-Logo.jpg) | Member at [American Institute of Chemical Engineers](https://www.aiche.org/)|
 | ![AIAA](/assets/images/organizations/AIAA-Logo.jpg) | Member at [American Institute of Aeronautics and Astronautics](https://www.aiaa.org/) |
 | ![Character Building Society](/assets/images/organizations/CBS-Logo.png) | President of [Character Building Society](https://www.facebook.com/cbsGIKI/)|
