@@ -10,10 +10,10 @@ title: "Organizations"
 | ![Vice President Marketing](/assets/images/organizations/VP-Marketing-GIKIAA.PNG) | Vice President Marketing at [GIKI Alumni Association](https://gikialumni.org/) - Volunteer position) |
 | ![Volunteer](/assets/images/organizations/Santa Fe Institute.jpg) | Volunteer at [Santa Fe Institute](https://www.santafe.edu/) - Volunteer position) |
 | ![Member](/assets/images/organizations/Future-Team-PK-Logo.jpg) | Member at [Future Team Pakistan](https://www.facebook.com/FutureTeamPakistan) - Volunteer position) |
-
-
-
-
+  
+  
+  
+  
 | Previous                                                                           | Job Title                                                                  |                                                                                                                                                                            
 |------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
 | ![RB](/assets/images/organizations/RB.jpg)| Assistant Manager Ecommerce at (Reckitt Benckiser PLC)[https://www.rb.com/about-us/rb-pakistan/] |
