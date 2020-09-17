@@ -13,7 +13,7 @@ tags: Climate-Reality-Project Online-Webinar Climate-Change
 
 ### Event Description
 
-In "Climate Crisis and its Solutions: Truth in Ten", Rayyan will answer three major questions about the climate crisis.
+In "Climate Crisis and its Solutions", Rayyan will answer three major questions about the climate crisis.
 - The science behind Climate Change
 - How the Climate Crisis is already affecting billions of people in 2020
 - Is there a case for optimism for the future? If yes, then what is it?
