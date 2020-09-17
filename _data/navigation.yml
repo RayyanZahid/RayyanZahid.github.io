@@ -34,5 +34,8 @@ main:
   - title: "Papers"
     url: /papers/
     
+  - title: "Videos"
+    url: /video/
+    
   - title: "Support"
     url: /support/
