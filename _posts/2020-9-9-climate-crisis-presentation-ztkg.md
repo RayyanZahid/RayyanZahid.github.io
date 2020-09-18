@@ -4,7 +4,7 @@ title:  "[Webinar] Climate Crisis and Its Solutions presentation by Rayyan Zahid
 excerpt: Join Rayyan on the 19th, as he presents "The Climate Crisis and Its Solutions" to The Talent Generation group.
 tags: Climate-Reality-Project Online-Webinar Climate-Change
 ---
-![Featured image](/assets/images/webinar/climate-reality-project/Flyer_Zara_CRP.jpg)
+![Featured image](/assets/images/webinar/climate-reality-project/Github.jpg)
 
 | Webinar for               | Venue       | Date      | Time         | Event link                                                                                                                  | Registration Required | Moderator     | 
 |---------------------------|-------------|-----------|--------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------| 
