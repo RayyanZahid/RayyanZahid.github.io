@@ -52,7 +52,7 @@ The panel discussion will be moderated by climate activist and Climate Reality L
 
 ### Speaker Details:
 
-![Kiearra Ortiz-Cedano](/assets/images/webinar/climate-reality-project/Kiearra.jpg)
+![Kiearra Ortiz-Cedano](/assets/images/webinar/climate-reality-project/Keiarra.jpg)
 Keiarra Ortiz-Cedano is the Founder of Ever Arable. Ever Arable is designing a high yield, space efficient hydroponic systems. They are optimizing agricultural systems for water efficiency and ease of use. Ever Arable places a special focus on empowering food insecure people with the means of food production. Although they happily serve all types of people, they target communities of color, people who live in dense, urban environments, and people without access to arable land.
 
 ![Christelle Rouhat](/assets/images/webinar/climate-reality-project/Christelle.jpg)
@@ -60,7 +60,7 @@ Christelle Rohaut is the CEO of Codi. Codi is creating the future of work by mak
 
 Christelle has been innovatively rethinking urban systems to help cities be a happier place for all. Her work involves Urban Planning & Design, Housing & Homelessness, Sustainability & Environment, IoT & Smart Cities, Participatory Budgeting & Direct Democracy, Circular & Sharing Economy. She is a Schmidt-MacArthur Fellow from the Circular Economy.
 
-![RJ DeLong](/assets/images/webinar/climate-reality-project/RJ DeLong.jpg)
+![RJ DeLong](/assets/images/webinar/climate-reality-project/RJDeLong.jpg)
 RJ DeLong is the CEO of Stellar Power Corporation. Stellar Power is a boutique financial advising and consulting company focused exclusively in the solar industry. Founded in 2010 as an investment research firm, their roots are in searching out and delivering investments to their clients that offer uniquely attractive risk vs. reward. RJ DeLong is personally interested in the potential and future of decentralizing power, giving control of a person's energy consumption back to the people.
 
 ### Moderator Details
