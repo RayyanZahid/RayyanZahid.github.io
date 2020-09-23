@@ -81,22 +81,22 @@ He is one of over 20,000 trained Climate Reality Leaders from over 150 countries
 ### Partner Organization Details
 
 Keiarra Ortiz Cedano:
-[https://www.linkedin.com/in/keiarra-ortiz-cede%C3%B1o-151a99a4/](https://www.linkedin.com/in/keiarra-ortiz-cede%C3%B1o-151a99a4/)
-[https://twitter.com/EverArable](https://twitter.com/EverArable)
+- [https://www.linkedin.com/in/keiarra-ortiz-cede%C3%B1o-151a99a4/](https://www.linkedin.com/in/keiarra-ortiz-cede%C3%B1o-151a99a4/)
+- [https://twitter.com/EverArable](https://twitter.com/EverArable)
 
 Christelle Rouhat:
-[https://twitter.com/chrisrohaut](https://twitter.com/chrisrohaut)
-[https://twitter.com/codiwork](https://twitter.com/codiwork)
-[https://www.codi.com/](https://www.codi.com/)
+- [https://twitter.com/chrisrohaut](https://twitter.com/chrisrohaut)
+- [https://twitter.com/codiwork](https://twitter.com/codiwork)
+- [https://www.codi.com/](https://www.codi.com/)
 
 RJ DeLong:
-[https://www.linkedin.com/in/rjdelong/](https://www.linkedin.com/in/rjdelong/)
-[https://stellarpower.net/](https://stellarpower.net/)
+- [https://www.linkedin.com/in/rjdelong/](https://www.linkedin.com/in/rjdelong/)
+- [https://stellarpower.net/](https://stellarpower.net/)
 
 Rayyan Zahid:
-[https://www.rayyanzahid.com](https://www.rayyanzahid.com)
-[https://www.elevatebyrayyan.com](https://www.elevatebyrayyan.com)
+- [https://www.rayyanzahid.com](https://www.rayyanzahid.com)
+- [https://www.elevatebyrayyan.com](https://www.elevatebyrayyan.com)
 
 Climate Reality Project:
-[https://www.climaterealityproject.org/](https://www.climaterealityproject.org/)
+- [https://www.climaterealityproject.org/](https://www.climaterealityproject.org/)
 
