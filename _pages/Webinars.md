@@ -8,8 +8,8 @@ title: "Webinars"
 - [Upcoming][Speaker] Climate Crisis and its Solutions: Truth in Ten - AIESEC UCLA
 
 ### September
-- [Upcoming 27th][Organizer] Panel Discussion: Future of Urban Cities
-- [Upcoming 26th][Speaker] Climate Crisis and its Solutions: Truth in Ten - PakLaunch.com
+- [Upcoming 27th][Organizer] [Panel Discussion: Future of Urban Cities][11]
+- [Upcoming 26th][Speaker] Climate Crisis and its Solutions - PakLaunch.com
 - [Upcoming 19th][Speaker] [Climate Crisis and its Solutions: Truth in Ten - The Talent Generation][9]
 - [Speaker] [Climate Crisis and its Solutions: Truth in Ten - CBS][10]
 
@@ -43,3 +43,5 @@ title: "Webinars"
 
 [9]: <https://rayyanzahid.com/climate-crisis-presentation-ztkg/>
 [10]: <https://rayyanzahid.com/climate-crisis-presentation-cbs/>
+
+[11]: <https://rayyanzahid.com/future-of-cities/>
