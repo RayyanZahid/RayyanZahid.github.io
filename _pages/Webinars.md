@@ -5,12 +5,14 @@ title: "Webinars"
 
 ## 2020
 ### October
+- [Upcoming 3rd][Speaker] [Climate Crisis and its Solutions - AIESEC GIKI][12]
+- [Upcoming 10th][Speaker] Climate Crisis and its Solutions - PakLaunch.com
 - [Upcoming][Speaker] Climate Crisis and its Solutions: Truth in Ten - AIESEC UCLA
 
+
 ### September
-- [Upcoming 27th][Organizer] [Panel Discussion: Future of Urban Cities][11]
-- [Upcoming 26th][Speaker] Climate Crisis and its Solutions - PakLaunch.com
-- [Upcoming 19th][Speaker] [Climate Crisis and its Solutions: Truth in Ten - The Talent Generation][9]
+- [Organizer] [Panel Discussion: Future of Urban Cities][11]
+- [Speaker] [Climate Crisis and its Solutions: Truth in Ten - The Talent Generation][9]
 - [Speaker] [Climate Crisis and its Solutions: Truth in Ten - CBS][10]
 
 ### August
@@ -45,3 +47,5 @@ title: "Webinars"
 [10]: <https://rayyanzahid.com/climate-crisis-presentation-cbs/>
 
 [11]: <https://rayyanzahid.com/future-of-cities/>
+
+[12]: <https://rayyanzahid.com/agcrp/>
