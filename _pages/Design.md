@@ -1,6 +1,6 @@
 ---
 permalink: /design/
-title: "design"
+title: "Design"
 ---
 
 Rayyan has had 11 years with designing experience on the Adobe Suite and other softwares. He has helped 10s of startups and organizations find their inner voice by forging a brand identity that reflects a company's true mantra. Whether it is artwork, illustrations, advertisement, audio design (podcast and transcriptions) or 3D work, quality and ingenuity is always delivered.
