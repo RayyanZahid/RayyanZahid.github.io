@@ -28,7 +28,7 @@ Click preferred payment option below to place a payment order for a logo order.
 
         createOrder: function(data, actions) {
           return actions.order.create({
-            purchase_units: [{"description":"Logo design + additional emeents","amount":{"currency_code":"USD","value":100}}]
+            purchase_units: [{"description":"Logo design + additional elements","amount":{"currency_code":"USD","value":100}}]
           });
         },
 
