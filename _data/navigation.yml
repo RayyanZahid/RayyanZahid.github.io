@@ -37,5 +37,8 @@ main:
   - title: "Videos"
     url: /videos/
     
+  - title: "Design"
+    url: /design/
+    
   - title: "Support"
     url: /support/
