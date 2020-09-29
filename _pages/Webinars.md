@@ -5,8 +5,10 @@ title: "Webinars"
 
 ## 2020
 ### October
-- [Upcoming 3rd][Speaker] [Climate Crisis and its Solutions - AIESEC GIKI][12]
-- [Upcoming 10th][Speaker] Climate Crisis and its Solutions - PakLaunch.com
+- [Upcoming 2nd][Organizer] [Paper Discussion] Astronomical Waste: Opp cost of delayed tech developement[13]
+- [Upcoming 3rd][Speaker] Climate Crisis and its Solutions - PakLaunch.com[14]
+- [Upcoming 10th][Speaker] 24 Hours of Reality - PakLaunch.com
+- [Upcoming][Speaker] [Climate Crisis and its Solutions - AIESEC GIKI][12]
 - [Upcoming][Speaker] Climate Crisis and its Solutions: Truth in Ten - AIESEC UCLA
 
 
@@ -49,3 +51,6 @@ title: "Webinars"
 [11]: <https://rayyanzahid.com/future-of-cities/>
 
 [12]: <https://rayyanzahid.com/agcrp/>
+
+[13]: <https://www.meetup.com/sf-x-risks/events/273539930/>
+[14]: <>
