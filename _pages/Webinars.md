@@ -5,9 +5,9 @@ title: "Webinars"
 
 ## 2020
 ### October
-- [Upcoming 2nd][Organizer] [[Paper Discussion] Astronomical Waste: Opp cost of delayed tech developement][13] - [SFxRiskMeetUpGroup][15]
-- [Upcoming 3rd][Speaker] Targeting Climate Action: The role of smart Agriculture - Reach Out to Future Leaders Movement Ghana [14]
-- [Upcoming 10th][Speaker] 24 Hours of Reality - PakLaunch.com
+- [Upcoming 2nd][Organizer] [[Paper Discussion] Astronomical Waste: Opp cost of delayed tech developement][13] - [*SFxRiskMeetUpGroup*][15]
+- [Upcoming 3rd][Speaker] [Targeting Climate Action: The role of smart Agriculture - *Reach Out to Future Leaders Movement Ghana*][14]
+- [Upcoming 10th][Speaker] 24 Hours of Reality - [*PakLaunch.com*][4]
 - [Upcoming][Speaker] [Climate Crisis and its Solutions - AIESEC GIKI][12]
 - [Upcoming][Speaker] Climate Crisis and its Solutions: Truth in Ten - AIESEC UCLA
 
