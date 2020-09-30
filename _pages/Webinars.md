@@ -52,6 +52,6 @@ title: "Webinars"
 
 [12]: <https://rayyanzahid.com/agcrp/>
 
-[13]: <https://www.meetup.com/sf-x-risks/events/273539930/>
+[13]: <https://rayyanzahid.com/Astronomical-waste/>
 [14]: <https://rayyanzahid.com/ROFLM/>
 [15]: <https://www.meetup.com/sf-x-risks>
