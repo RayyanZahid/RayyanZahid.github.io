@@ -1,6 +1,6 @@
 ---
 classes: wide
-title: "[Paper Discussion] Astronomical Waste: Opp cost of delayed tech developement"
+title: "[Paper Discussion] Astronomical Waste: Opp cost of delayed tech development"
 excerpt: Minor delay can lead to astronomical consequences. Rayyan will be presenting a paper written by Oxford Director, "Future of Humanity Institite" Nick Bostrom, to the San Francisco Existential Risks Meetup Group.
 tags: xRisks meetup technology
 ---
