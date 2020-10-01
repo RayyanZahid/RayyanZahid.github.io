@@ -45,10 +45,10 @@ Rayyan Zahid is a systems thinker and a researcher in software language design a
 Rayyan volunteers at the Santa Fe Institute, is a life-long global citizen of AIESEC and a member of Future Team Pakistan.
 
 
-![Newsletter](www.elevatebyrayyan.com)
-![Twitter](www.twitter.com/rayyanzahid)
-![Medium](www.medium.com/@rayyanzahid)
-![Website](www.rayyanzahid.com)
+[Newsletter](https://www.elevatebyrayyan.com)
+[Twitter](https://www.twitter.com/rayyanzahid)
+[Medium](https://www.medium.com/@rayyanzahid)
+[Website](https://www.rayyanzahid.com)
 
 
 ### Partner Organization Details
