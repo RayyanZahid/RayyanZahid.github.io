@@ -1,0 +1,87 @@
+---
+classes: wide
+title:  "[Webinar] Climate and Racial Justice - 24 Hours of Reality [USC & AIESEC]"
+excerpt: With COVID-19, the climate crisis, and a global reckoning on racial justice we're at an inflection point. What is the future we want?
+tags: 24hoursofreality racialjustice Climate-Reality-Project Online-Webinar Climate-Change
+---
+
+<!-- ![Featured image](/assets/images/webinar/climate-reality-project/FutureOfCities.jpg) -->
+
+| Webinar for| Venue       | Date      | Time         | Event link                                                                                                                  | Registration Required | Moderator     | 
+|------------|-------------|-----------|--------------|-----------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------| 
+| USC        | Google meet | Oct, 11th | 12pm-1pm PDT (-7 GMT) | [EventBrite](https://www.eventbrite.com/e/webinar-climate-and-racial-justice-24-hours-of-reality-usc-and-aiesec-tickets-124372468401) | Yes| Curtis Kp | 
+
+
+### Event Description
+
+In "Climate and Racial Justice - 24 Hours of Reality", Rayyan will be highlighting how the Climate Crisis is disproportionately impacting minority groups, people of color and communities around the world in America and around the world, primarily the Global South.
+
+The presentation is backed with our latest understanding of climate science and includes numerous examples of how the Climate Crisis has already done a lot of damage in 2020 and 2019. There is a need for alarm but also optimism with regards to solving the crisis. Creative solutions to the problem are emerging as businesses, communities and governments take action.
+
+What is 24 Hours of Reality?
+
+We're at an inflection point. COVID-19, the climate crisis, and a global reckoning on racial justice have forced us to rethink normal and created a new world of possibilities. Now it’s time to ask ourselves one simple question: What is the future we want?
+
+On October 10–11, former Vice President Al Gore and The Climate Reality Project will do just that with 24 Hours of Reality: Countdown to the Future , a global conversation on the future we want and how we get there, held in partnership with TED Countdown.
+
+For 24 straight hours, Vice President Gore and Climate Reality Leader activists across the planet will lead digital presentations and discussions exploring the historic conjunction of climate change, COVID-19, and structural racism that not only threatens our lives and deepest values, but opens the door to truly transformative change.
+
+Free and open to audiences everywhere, Countdown to the Future invites people of all ages and walks of life to join a planet-wide dialogue on the existential threats and historic opportunities that define our moment, looking ahead to a just and sustainable future and learning what we can all do to make it a reality.
+
+In addition to the presentation, for every person who will attend the presentation and fills out the sign up form that will be live on 24hoursofreality.org, we'll be planting a tree on your behalf through One Tree Planted. 
+
+Also, there will be a guest appearance by Former U.S. Vice President Al Gore for the beginning 2 mins during the presentation.
+
+There is no charge for this online event, but please RSVP in advance. Following the presentation there will be a Q&A session. Questions can be submitted in advance by emailing Curtis Ko at curtisko@usc.edu. They can also be posted in the chat room during the meeting. 
+
+This event is a private event and only available for USC students, faculty and staff.
+
+### Registration:
+
+<div id="eventbrite-widget-container-122467440411"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '122467440411',
+        iframeContainerId: 'eventbrite-widget-container-122467440411',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
+  
+### Speaker Details:
+
+The guest speaker, Rayyan Zahid is a systems thinker and a researcher in software language design at a startup in San Francisco. In light of the recent global risks, he is currently writing a book on the future of humanity. He is also a life-long global citizen of AIESEC and the Vice President Marketing of GIKI Alumni Association.
+
+Rayyan Zahid was personally trained by former US Vice President Al Gore and The Climate Reality Project at the Global Training 2020 to serve as a volunteer Climate Reality Leader. The training was focused on providing a select group of trainees with a deep understanding of the science of climate change, the impacts of the climate crisis, and the solutions to the crisis. The training also builds skills in public speaking, communication strategies, community outreach, and organizing.
+
+He is one of over 20,000 trained Climate Reality Leaders from over 150 countries. The Climate Reality Leadership Corps has been extraordinarily successful at reaching people in their communities and informing them about the climate crisis and the solutions – local, national, and global – that we can all start supporting now.
+
+[Newsletter](https://www.elevatebyrayyan.com)
+[Twitter](https://www.twitter.com/rayyanzahid)
+[Medium](https://www.medium.com/@rayyanzahid)
+[Website](https://www.rayyanzahid.com)
+
+### Moderator Details
+
+![Rayyan Zahid](/assets/images/webinar/climate-reality-project/Rayyan.jpg)
+Our moderator for the session, Curtis Ko, is a 3rd year medicine & psychology student at USC. He is the president of AIESEC USC, a nonprofit focused on volunteering and social causes, as well as a member of Mobile Clinic, a volunteer group that provides free healthcare for the homeless population of Los Angeles. He loves to travel, relax at the beach, and find any excuse to drink coffee.
+
+
+### Partner Organization Details
+
+AIESEC, established in 1948, believes that to achieve world peace, barriers have to be broken by volunteers willing to open their hearts to new experiences. When people help people, the act of giving spreads across language and culture walls. This nonprofit is focused on the United Nations Sustainable Development Goals and every project is focused on one. Currently at USC, the organization is working on SDG 10 reduced inequalities through creating a video focused on race and discrimination in today's society and the steps we can take to overcome it.
+
+Climate Reality Project:
+- [https://www.climaterealityproject.org/](https://www.climaterealityproject.org/)
+
