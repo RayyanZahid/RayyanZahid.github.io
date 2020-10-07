@@ -47,7 +47,7 @@ title: "Webinars"
 
 [11]: <https://rayyanzahid.com/future-of-cities/>
 
-[12]: <https://rayyanzahid.com/usc-24/>
+[12]: <https://rayyanzahid.com/USC-24/>
 
 [13]: <https://rayyanzahid.com/Astronomical-waste/>
 [14]: <https://rayyanzahid.com/ROFLM/>
