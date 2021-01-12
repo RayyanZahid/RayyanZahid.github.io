@@ -10,7 +10,7 @@ title: "Online courses"
 ## Courses completed
 ## 2020
 ### August
-- **(Ongoing) In-depth Look at Human Brain Evolution** - Further reflection, *American Humanist Association* - [(More Info)](https://rayyanzahid.com/human-brain-evolution-AHA/)[(Pre-cursor)](https://americanhumanistcenterforeducation.org/?p=19921)
+- **In-depth Look at Human Brain Evolution** - Further reflection, *American Humanist Association* - [(More Info)](https://rayyanzahid.com/human-brain-evolution-AHA/)[(Pre-cursor)](https://americanhumanistcenterforeducation.org/?p=19921)
 - **Introduction to Agent-Modeling with NetLogo** - Guided Project, *Coursera* - [(Certificate)](https://raw.githubusercontent.com/RayyanZahid/RayyanZahid.github.io/master/assets/images/courses/Guided-course-introduction-to-agent-based-modeling-on-net-logo.jpg)[(Course)](https://www.coursera.org/projects/abm-netlogo)
 - **Computation in Complex Systems** - Complexity Explorer, *Santa Fe Institute* - [(Certificate)](https://raw.githubusercontent.com/RayyanZahid/RayyanZahid.github.io/master/assets/images/courses/computation-in-complex-systems-certificate.jpg)[(Course)](https://www.complexityexplorer.org/courses/99-computation-in-complex-systems)(Personal Blog - Coming soon)
 - **Computation Modeling and NetLogo** - Complexity Explorer, *Santa Fe Institute* - [(Course)](https://www.complexityexplorer.org/courses/113-summer-teacher-institute-computational-modeling-and-netlogo/segments/10979)[(Personal Blog)](https://rayyanzahid.com/course-computational-agent-based-modeling/)
