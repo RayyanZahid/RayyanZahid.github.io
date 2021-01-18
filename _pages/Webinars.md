@@ -5,7 +5,7 @@ title: "Webinars"
 
 ## 2020
 ### October
-- [Upcoming 11th][Speaker] [Climate Crisis and its Solutions - AIESEC USC][12]
+- [Speaker] [Climate Crisis and its Solutions - AIESEC USC][12] - [Online Webinar][16]
 - [Organizer] [[Paper Discussion] Astronomical Waste: Opp cost of delayed tech developement][13] - [*SFxRiskMeetUpGroup*][15]
 - [Speaker] [Targeting Climate Action: The role of smart Agriculture - *Reach Out to Future Leaders Movement Ghana*][14]
 
@@ -48,6 +48,7 @@ title: "Webinars"
 [11]: <https://rayyanzahid.com/future-of-cities/>
 
 [12]: <https://rayyanzahid.com/USC-24/>
+[16]: <https://drive.google.com/file/d/1-JulqxrPIh4iH_eHdzKaesCkpTetc-5S/view?usp=sharing>
 
 [13]: <https://rayyanzahid.com/Astronomical-waste/>
 [14]: <https://rayyanzahid.com/ROFLM/>
