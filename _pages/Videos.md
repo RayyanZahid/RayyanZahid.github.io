@@ -16,3 +16,7 @@ title: "Video"
 #### The Opposites Game
 <iframe src="https://player.vimeo.com/video/314643521" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/314643521">The Opposites Game</a> from <a href="https://vimeo.com/lisalabra">Lisa LaBracio</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+#### Not The Same River. Not The Same Man.
+<iframe src="https://player.vimeo.com/video/348129563" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/348129563">Not The Same River. Not The Same Man (2017)</a> from <a href="https://vimeo.com/michellebrand">Michelle Brand</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
