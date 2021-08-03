@@ -3,6 +3,8 @@
 # Url is the URL that gets added to the master.
 
 main:
+  -title:"Donate"
+   url: /donate/
 
   - title: "Courses"
     url: /courses/
